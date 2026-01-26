@@ -1,13 +1,13 @@
-title: pres-docs
-description: Public repository for the Preservation and Collections Processing department at NYPL
+title: Archival Processing
+description: Public documentation repo for the Archival Processing department at NYPL
 #theme: just-the-docs
 remote_theme: just-the-docs/just-the-docs
 
 url: https://nypl.github.io
-baseurl: /pres-docs
+baseurl: /archival-processing
 
 aux_links:
-  Home: https://nypl.github.io/pres-docs
+  Home: https://nypl.github.io/archival-processing
 
 # Callouts
 callouts:
@@ -30,7 +30,7 @@ mermaid:
 # Footer
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "See this page on GitHub."
-gh_edit_repository: "https://github.com/NYPL/pres-docs" # the github URL for your repo
+gh_edit_repository: "https://github.com/NYPL/archival-processing" # the github URL for your repo
 gh_edit_branch: "main" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately

@@ -1,2 +1,2 @@
-# pres-docs
-Public documentation repo for the Preservation and Collections Processing department at NYPL
+# Archival Processing
+Public documentation repo for the Archival Processing department at NYPL
