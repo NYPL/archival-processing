@@ -40,7 +40,7 @@ ArchivesSpace is an open-source content management system used to manage archiva
 
 **Collection Management** 
 
-Collection management at NYPL is managed in [SPEC](https://sites.google.com/nypl.org/specialcollections/spec), which is used for both [location management](https://nypl.github.io/archival-processing/ProcessingManual/Location_Management.html) and [accessioning](https://nypl.github.io/archival-processing/ProcessingManual/Accessioning.html).
+Collection management at NYPL is managed in [SPEC](https://sites.google.com/nypl.org/specialcollections/spec), which is used for both [location management](https://nypl.github.io/archival-processing/processing-manual/Location_Management.html) and [accessioning](https://nypl.github.io/archival-processing/processing-manual/Accessioning.html).
 
 **Circulation and Public Access**
 
