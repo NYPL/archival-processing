@@ -31,6 +31,6 @@ An **identifier** is a unique ID that can be attached to a _resource_ and/or _ar
 Examples of _identifiers_ include: classmark, collection number, AMI identifier, electronic record identifier, and bnumber.
 
 ## Agent
-An **agent** is ASpace’s name for a [controlled access term](https://nypl.github.io/pres-docs/archivalProcessing/Controlled_Access_Terms.html) that is a name or corporate body. 
+An **agent** is ASpace’s name for a [controlled access term](https://nypl.github.io/archival-processing/archivalProcessing/Controlled_Access_Terms.html) that is a name or corporate body. 
 
 Agents and Subjects can be linked to many _resources_ across all _repositories_.

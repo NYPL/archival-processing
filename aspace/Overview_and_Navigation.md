@@ -53,9 +53,9 @@ Each function outlined in the _Create_ drop-down is also available to be viewed 
 
 For more information on creating _Resource Records_, please see the [Resource Records]() section of this documentation. Not all users have permissions to create resource records, and you should always consult your supervisor before creating a new resource record for a collection. 
 
-In most cases, collections will already have resource records that were created by Archival Processing Management after an acquisition was accessioned. See the [accessioning](https://nypl.github.io/pres-docs/archivalProcessing/Accessioning.html) section of the [archival processing](https://nypl.github.io/pres-docs/archivalProcessing/archivalProcessing.html) documentation for further information on this workflow.
+In most cases, collections will already have resource records that were created by Archival Processing Management after an acquisition was accessioned. See the [accessioning](https://nypl.github.io/archival-processing/archivalProcessing/Accessioning.html) section of the [archival processing](https://nypl.github.io/archival-processing/archivalProcessing/archivalProcessing.html) documentation for further information on this workflow.
 
-When creating new _agents_ and _subjects_ follow the guidelines laid out in the [archival processing documentation](https://nypl.github.io/pres-docs/archivalProcessing/Controlled_Access_Terms.html). Also see the section on this documentation about how to create new agents and subjects. 
+When creating new _agents_ and _subjects_ follow the guidelines laid out in the [archival processing documentation](https://nypl.github.io/archival-processing/archivalProcessing/Controlled_Access_Terms.html). Also see the section on this documentation about how to create new agents and subjects. 
 
 You will use the _background job_ menu when you need to export a pdf or import AMI, electronic records, or a processing spreadsheet.  
 

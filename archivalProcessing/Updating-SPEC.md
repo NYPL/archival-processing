@@ -86,7 +86,7 @@ Once you have made your selection, click on the confirm button.
 
 ![Confirm Button](/Images/108-confirm-button.png)
 
-If you wish to deactivate multiple boxes at once, use the SPEC bulk deactivation feature, which allows you to select all the objects you need to deactivate. See the section of this documentation on [Bulk Object Deactivation](https://nypl.github.io/pres-docs/archivalProcessing/updating_processed_object_records_in_SPEC.html#bulk-object-deactivation-in-spec) for more information about how to do this. 
+If you wish to deactivate multiple boxes at once, use the SPEC bulk deactivation feature, which allows you to select all the objects you need to deactivate. See the section of this documentation on [Bulk Object Deactivation](https://nypl.github.io/archival-processing/archivalProcessing/updating_processed_object_records_in_SPEC.html#bulk-object-deactivation-in-spec) for more information about how to do this. 
 
 ## Bulk Object Deactivation in SPEC
 Navigate to the collection’s objects list.
@@ -142,7 +142,7 @@ A navigation window will pop up. Select the csv file you created, and click _ope
 
 The containers will be imported as objects in the collection record. If your collection includes any containers without dimensions in ASpace, be sure to manually enter them into SPEC so that the collection extent is correct. See the section of this documentation on [Updating Container Dimensions in SPEC]() for instructions on how to do this.
 
-Once the new containers have been imported, make sure to update their locations in SPEC. For instructions on how to update locations, see the [Location Management](https://nypl.github.io/pres-docs/archivalProcessing/Location_Management.html)section of this documentation.
+Once the new containers have been imported, make sure to update their locations in SPEC. For instructions on how to update locations, see the [Location Management](https://nypl.github.io/archival-processing/archivalProcessing/Location_Management.html)section of this documentation.
 
 # Updating Container Dimensions in SPEC
 After you import your ASpace containers into SPEC, you will need to update the dimensions for all non-standard sized containers. 

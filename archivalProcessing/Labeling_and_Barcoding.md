@@ -8,7 +8,7 @@ has_children: false
 # Printing Labels
 Before your collection can be shelved or shipped, you must print labels for each container in the collection, including boxes, volumes, tubes, and oversized folders. Document boxes, volumes, and oversized folders require a single label, while flat boxes, tubes, and record cartons require two labels. Remember document boxes, flat boxes, and tubes will also require two barcodes. See the Collection Management's Visual Guide document for more information about Barcode Placement Guidelines.
 
-You should wait to print labels until after your finding aid has been approved in case you need to make any changes. Before you print your labels, make sure the collection title and [call number](https://nypl.github.io/pres-docs/archivalProcessing/Processing_Proposal.html#division-call-number-dacs-21) are both correct, and that there is a call number in the identifier field. 
+You should wait to print labels until after your finding aid has been approved in case you need to make any changes. Before you print your labels, make sure the collection title and [call number](https://nypl.github.io/archival-processing/archivalProcessing/Processing_Proposal.html#division-call-number-dacs-21) are both correct, and that there is a call number in the identifier field. 
 
 Labels can be printed in SPEC and ASpace. When printing labels for a newly processed collection, it is recommended you always print the labels in ASpace. To print labels in ASpace, select manage top containers from the setting menu on the top right. 
 
