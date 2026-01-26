@@ -10,11 +10,7 @@ nav_order: 0
 Welcome to the documentation site of Archival Processing of the New York Public Library.
 {: .fs-6 .fw-300 }
 
-{: .note }
-> Portions of this site are under construction! 
-> More content coming soon ...
+This documentation was written to serve as a guide for archivists on the New York Public Library’s Archival Processing team, a division of the Special Collections Processing department, to arrange, describe, preserve, and provide access to collections across all research divisions of the library. 
 
-&nbsp; 
-&nbsp; 
-
-Contact archivalprocessing@nypl.org with any questions or comments about this documentation site.
+## Contact
+Email [archivalprocessing@nypl.org](mailto:archivalprocessing@nypl.org) with any questions or comments.
