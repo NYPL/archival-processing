@@ -1,5 +1,6 @@
 ---
 title: Training
+permalink: /aspace/training/
 layout: default
 parent: ArchivesSpace
 nav_order: 2

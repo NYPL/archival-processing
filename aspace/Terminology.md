@@ -1,5 +1,6 @@
 ---
 title: Terminology
+permalink: /aspace/terminology/
 layout: default
 parent: ArchivesSpace
 nav_order: 3
