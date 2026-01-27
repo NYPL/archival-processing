@@ -124,7 +124,7 @@ Follow the steps below to complete this export.
 
 3\. A dialog box will pop up when the export is finished.
 
-![SPEC file downloaded](/images/47-SPEC-file-downloaded.jpg)
+![SPEC file downloaded](../images/47-SPEC-file-downloaded.jpg)
 
 4\. It is recommended that you upload the csv to google drive and open it in google sheets before starting your inventory work. Excel sometimes adds special characters or formatting that can lead to data loss. 
 
@@ -133,7 +133,7 @@ If you have a small collection, you may choose to just export the basic AMI inve
 
 The _AMI ASpace Export_ button is also located on the left hand side of a SPEC collection record, just to the right of the _AMI Export_ button 
 
-![SPEC AMI ASpace Export Button](/images/48-AMI-ASpace_export-button.png)
+![SPEC AMI ASpace Export Button](../images/48-AMI-ASpace_export-button.png)
 
 When you select this button, a spreadsheet of all the AMI objects will automatically export to your desktop. This spreadsheet will export without column labels. It is recommended that you temporarily add labels before resuming inventory work. 
 
@@ -178,11 +178,11 @@ Follow the steps below to transform all data in your inventory to plain text to 
 
 1\. If you are not already working on your inventory in Google sheets, upload your spreadsheet to Google Drive, and open it in sheets.
 
-![Google Sheets](/images/49-google-sheets.jpg)
+![Google Sheets](../images/49-google-sheets.jpg)
 
 2\. Once the file is open in Google Sheets, you must format the data as Plain Text. Select all the columns and go to _Format -> Number -> Plain Text_.
 
-![save plain text](Images/50-save-plain-text.png)
+![save plain text](../images/50-save-plain-text.png)
 
 3\. Verify all the data is still accurate after changing it to plain text. By default, Google Sheets will guess at the data type for each column, which may have unexpected results, such as dates being transformed into date-time values. 
 
@@ -197,17 +197,17 @@ Once you have completed data cleanup on your spreadsheet in Google Sheets, and y
 
 1\. Download the file from Google Drive in XLSX format. To do this, go to: _File -> Download -> Microsoft Excel (.xlsx)_.
 
-![Download file for ASpace](/images/51-download-file-for-ASpace.jpg)
+![Download file for ASpace](../images/51-download-file-for-ASpace.jpg)
 
 2\. Once you have downloaded the inventory, open ASpace and make sure you are in the correct repository. 
 
 3\. Navigate to _Create -> Background Job -> Import Data_.
 
-![import AMI data](/images/52-import-AMI-data.jpg)
+![import AMI data](../images/52-import-AMI-data.jpg)
 
 4\. Select _AMI spreadsheet_ from the _Import Type_ menu.
 
-![AMI Background Job](/images/53-AMI-background-job.jpg)
+![AMI Background Job](../images/53-AMI-background-job.jpg)
 
 5\. Select the green _+ Add file_ button and browse to your downloaded XLSX file. You may also drag your file directly into ASpace.
 
@@ -219,11 +219,11 @@ Once you have completed data cleanup on your spreadsheet in Google Sheets, and y
 
 8\. If you scroll further down the screen, you will see the job log, which shows the different tasks being run in the background to complete the import. If there are any errors in the import, they will be indicated in the job log. The image below is what a successful import log will look like.
 
-![ASpace job log](/images/54.1-Job-Log-ASpace.jpg)
+![ASpace job log](../images/54.1-Job-Log-ASpace.jpg)
 
 9\. If your import fails and you are unable to decipher the error or troubleshoot it on your own, file a ServiceNow ticket.
 
-See the [Description of Audio and Moving Image in ASpace](/Description_of_AMI_in_ASpace.md) section of this documentation for information about how to arrange and describe audio and moving image materials after they have been imported into ASpace.
+See the [Description of Audio and Moving Image in ASpace](/archival-processing/processing-manual/description-of-ami-in-aspace.md) section of this documentation for information about how to arrange and describe audio and moving image materials after they have been imported into ASpace.
 
 # Housing Media Originals
 At NYPL, a single AMI item is called a Media Original. AMI is stored by format in division-specific media originals boxes to support digitization workflows. Every effort should also be made to keep AMI from a single collection housed together. How AMI is housed will also depend on if it has already been digitized. Work with your supervisor to determine the digitization timeline and housing practices for your collection. 
