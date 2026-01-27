@@ -44,7 +44,7 @@ If an AMI item has multiple dates associated with it in the inventory, all dates
 
 ![non-consecutive dates](../aspace/Images/18-non-consecutive-dates.jpg)
 
-##Publishing Notes
+## Publishing Notes
 Notes imported into ASpace via the inventory spreadsheet are often unpublished by default. This means the notes will not appear in the PDF export of the finding aid, and will be "internal" notes in the EAD. Once you have completed your import, make sure to select the Publish All button from the top-level of the Resource record, as illustrated below. 
 
 ![publish all](../aspace/Images/19-publish-all.png)
