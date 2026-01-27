@@ -7,7 +7,6 @@ nav_order: 3
 has_children: false
 ---
 # ArchivesSpace Terminology
-
 This section details the terms used in the ASpace application and when discussing archival description Aspace.
 
 ## Resource

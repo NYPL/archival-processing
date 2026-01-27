@@ -49,15 +49,15 @@ Add [relator terms](https://nypl.github.io/archival-processing/processing-manual
 
 If the Library of Congress authority record indicates an agent uses RDA rules,  add _Resource Description and Access_ in the _Rules_ field in ASpace.
 
-![MARC RDA](/images/128-MARC-RDA.png)
+![MARC RDA](../images/128-MARC-RDA.png)
 
-![ASpace RDA](/images/129-ASpace-RDA.png)
+![ASpace RDA](../images/129-ASpace-RDA.png)
 
 If the agent is from a source other than the Library of Congress, or if the Library of Congress authority record does not indicate a name was derived using RDA rules, then leave the _Rules_ field blank as illustrated below. 
 
-![Not RDA](/images/130-not-RDA.png)
+![Not RDA](../images/130-not-RDA.png)
 
-![ASpace Not RDA](/images/131-ASpace-not-RDA.png)
+![ASpace Not RDA](../images/131-ASpace-not-RDA.png)
 
 Make sure the authority identifier is entered correctly. For Library of Congress authority records, make sure to copy the number exactly as it appears in the authority record, preserving any spaces that may be present. 
 
@@ -65,15 +65,15 @@ Make sure the authority identifier is entered correctly. For Library of Congress
 
 For complex subjects, make sure there is only one term in each field. Remember that subdivision terms each get their own field.
 
-![Complex subjects](/images/132-complex-subjects.png)
+![Complex subjects](../images/132-complex-subjects.png)
 
 Also be sure that locations are labeled as _geographic_ in the _type_ field.
 
-![Geographic subdivision](/images/133-geographic-subdivision.png)
+![Geographic subdivision](/..images/133-geographic-subdivision.png)
 
 Make sure authorized terms are not marked as _local_, and that the _source_ and _authority ID_ are included. 
 
-![ASpace subject](/images/134-ASpace-subject.png)
+![ASpace subject](../images/134-ASpace-subject.png)
 
 5\. Check that all containers were assigned a **container type**, **indicator**, and **barcode** in the top containers list for the collection. If the container type is omitted, terms like “box” or “tube” will be omitted in the XML.
 
@@ -81,14 +81,14 @@ Make sure authorized terms are not marked as _local_, and that the _source_ and 
 
 Go to the export menu and select _Download MARCXML_ as illustrated below.
 
-![export XML](/images/135-export-xml.png)
+![export XML](..images/135-export-xml.png)
 
 # Converting XML to MRC in MarcEdit
 Since ASpace generates the catalog information as MARCXML, you need to use MarcEdit to convert this data into a MARC format that can be imported into OCLC Connexion. 
 
 **NOTE** 
 **If you are cataloging an addition, you should skip directly to the section on 
-[Updating Existing Catalog Records](Creating-Catalog-and-EAD-Records.md#corrections-and-edits-to-existing-catalog-records).**
+[Updating Existing Catalog Records](archival-processing/processing-manual/creating-catalog-and-ead-records.md#corrections-and-edits-to-existing-catalog-records).**
 
 To convert XML to MRC, follow the steps below:
 
@@ -142,21 +142,21 @@ The first time you login to OCLC Connexion, or if you are logging onto OCLC Conn
 
 Go to the File menu and select Import Records.
 
-![OCLC Import](/images/136-OCLC-Import.png)
+![OCLC Import](../images/136-OCLC-Import.png)
 
 Navigate to your saved .mrc file, and check the _Import to Online Save File_ radio button.
 
-![online save file](/images/137-online-save-file.png)
+![online save file](../images/137-online-save-file.png)
 
 When the dialogue box asks _Do you want to delete your original import file?_ select _No_.
 
-![Delete file box](/images/138-delete-file-box.png)
+![Delete file box](../images/138-delete-file-box.png)
 
 3\. Locate and open the newly imported file.
 
 Go to _Cataloging > Search > Online Save File,_ and search for the collection by title.
 
-![search online save file](/images/139-search-online-save-file.png)
+![search online save file](../images/139-search-online-save-file.png)
 
 4\. When the new record opens, validate it to check for errors.
 
@@ -174,11 +174,11 @@ Select _Edit > Reformat or the _R_ icon to organize the order of the record’s 
 
 This [error](https://help.oclc.org/Metadata_Services/WorldShare_Record_Manager/Troubleshooting/Why_am_I_receiving_the_error_%22ELvl_(Leader%2F%2F17)_-_invalid_code%22_or_%22ELvl_(Leader%2F%2F17)_-_not_authorized_to_use_I%22_when_I_try_to_validate_a_record%3F) is very common the first time you attempt to validate a newly imported record. You will likely get an error similar to the one depicted below.
 
-![ELvl Error](/images/174-Elvl-error-message.jpg)
+![ELvl Error](../images/174-Elvl-error-message.jpg)
 
 This occurs when there is a  _I_ or _J_ in the _ELvl_ field at the top of the record. To correct the error, simply delete the letter from the box as illustrated below. 
 
-![Corrected ELvl error](/images/175-corrected-ELvl-field.jpg)
+![Corrected ELvl error](../images/175-corrected-ELvl-field.jpg)
 
 See OCLC's [documentation](https://help.oclc.org/Metadata_Services/WorldShare_Record_Manager/Troubleshooting/Why_am_I_receiving_the_error_%22ELvl_(Leader%2F%2F17)_-_invalid_code%22_or_%22ELvl_(Leader%2F%2F17)_-_not_authorized_to_use_I%22_when_I_try_to_validate_a_record%3F) for further information.
 
@@ -188,11 +188,11 @@ You need to add diacritics manually in OCLC. 
 
 Place the cursor after the letter that the diacritic will modify, and navigate to _Edit_ > _Enter Diacritics._
 
-![Enter Diacritics Menu](/images/140-enter-diacritics.png)
+![Enter Diacritics Menu](../images/140-enter-diacritics.png)
 
 A menu of diacritics will open. You can select the correct language from the dropdown menu, which will show the most common diacritics for that language. 
 
-![Diacritics Menu](/images/141-diacritics-menu.png)
+![Diacritics Menu](../images/141-diacritics-menu.png)
 
 Choose the correct diacritic, and then select _insert and close._
 
@@ -210,7 +210,7 @@ These are entered into ASpace as corporate names and will output into the MARC r
 
 If you are cataloging an artificial collection that does not have a _main entry_, you will get an error message about the _Title Statement_ \[[MARC 245](https://www.oclc.org/bibformats/en/2xx/245.html)] field. 
 
-![MARC 245 Error](/images/142-MARC245-error.png)
+![MARC 245 Error](../images/142-MARC245-error.png)
 
 Change the first indicator in the 245 field from a 1 to a 0. This indicates that there is no added entry for the title field, and will allow the record to validate.
 
@@ -222,13 +222,13 @@ All materials cataloged for the Research Libraries must include a 910 field. Mak
 
 Select _Edit > Control Headings > All._
 
-![control headings](/images/143-control-headings.png)
+![control headings](../images/143-control-headings.png)
 
 The controlled  headings will turn blue. [**AAT**](https://www.getty.edu/research/tools/vocabularies/aat/) **genre terms** \[[MARC 655](https://www.oclc.org/bibformats/en/6xx/655.html)] and [**ITOAMC**](https://folgerpedia.folger.edu/Index_terms_for_occupations_in_archival_and_manuscript_collections_\(ITOAMC\)) **occupation terms** \[[MARC 656](https://www.oclc.org/bibformats/en/6xx/656.html)] never link and do not need to be controlled. 
 
 **_Local_** agents and subjects also cannot be controlled.
 
-![controlled terms](/images/144-controlled-terms.png)
+![controlled terms](../images/144-controlled-terms.png)
 
 The **Main Entry** \[[MARC 100](https://www.oclc.org/bibformats/en/1xx/100.html) and [MARC 110](https://www.oclc.org/bibformats/en/1xx/110.html0.html)]  field frequently does not automatically link, and will need to be controlled manually if it has an existing authority heading. 
 
@@ -240,7 +240,7 @@ If an authorized agent or subject did not link, right click on it and select **_
 
 Sometimes a new window will open with a suggested heading. You can click on the linked heading in the pop up window for more information. 
 
-![suggested heading](/images/146-suggested-heading.png)
+![suggested heading](../images/146-suggested-heading.png)
 
 If the heading is correct, choose **Insert heading** to link it in your record. 
 
@@ -250,11 +250,11 @@ If there is no authority record for the heading, double check that the heading i
 
 8\. If the record is valid Select _Action > Holdings > Update holdings_, which will publish the record in WorldCat.
 
-![update holdings](/images/147-update-holdings.png)
+![update holdings](../images/147-update-holdings.png)
 
 9\. Then select _Action > Export_, which __exports the record to Sierra.
 
-![export record to sierra](/images/148-export-record.png)
+![export record to sierra](../images/148-export-record.png)
 
 # Sierra
 If you have created a brand new catalog record, these steps in Sierra will be to verify your catalog record exported correctly, to record the bnumber in ArchivesSpace and SPEC, and sometimes to edit the location information or suppress certain items. 
@@ -270,15 +270,15 @@ If you need to change a location, select the specific item(s) that need to be ch
 
 Then select _Edit_ > _Modify Group_
 
-![Sierra Modify Group](/images/149-modify-group.png)
+![Sierra Modify Group](../images/149-modify-group.png)
 
 Make sure _location_ (79) is selected in the _Field_ box. You can change the field by clicking in the box.
 
-![Sierra edit location](/images/150-Sierra-location.jpg)
+![Sierra edit location](../images/150-Sierra-location.jpg)
 
 If you need to edit the _location (79)_ of multiple items, select _edit > find_
 
-![Sierra Find](Images/151-Sierra-find.png)
+![Sierra Find](../images/151-Sierra-find.png)
 
 Then use the find and replace function to make the changes. 
 
@@ -302,11 +302,11 @@ If you are cataloging an addition to a previously processed collection, or if yo
 ## Updating Records in OCLC Connexion
 1\. Open OCLC Connexion and go to _Cataloging_ > _Search_ > _WorldCat_.
 
-![OCLC worldcat search](/images/152-OCLC-search-worldcat.png)
+![OCLC worldcat search](../images/152-OCLC-search-worldcat.png)
 
 2\. Search for the collection by title.
 
-![OCLC collection search](/images/153-OCLC-Collection-search.png)
+![OCLC collection search](../images/153-OCLC-Collection-search.png)
 
 3\. Open the collection record and make edits to the record. Some common updates are:
 
@@ -327,7 +327,7 @@ OCLC does not store local fields or item records \[[MARC 949](https://www.oclc.o
 
 5\. If the record is valid, Select _Action_ > _Replace Record_. This will make your changes appear in WorldCat.
 
-![Replace record OCLC](/images/154-Replace_record_OCLC.png)
+![Replace record OCLC](../images/154-Replace_record_OCLC.png)
 
 ## Updating Catalog Records in Sierra
 Once you have updated the OCLC record in Worldcat, you will need to make the same updates in Sierra, and add the new containers and their locations.
@@ -336,16 +336,16 @@ Once you have updated the OCLC record in Worldcat, you will need to make the sam
 
 2\. Select _edit_ and make the same changes you made to the WorldCat record in OCLC Connexion.
 
-![Sierra edit](/images/155-Sierra-edit.png)
+![Sierra edit](../images/155-Sierra-edit.png)
 
 3\. Once you have completed the edits, select _save_. The changes will be immediately changed in the OPAC. 
 
-![Sierra Save](/images/156-Sierra-save.png)
+![Sierra Save](../images/156-Sierra-save.png)
 
 ### Adding Item Records in Sierra
 Once you have updated the various fields of the catalog record in both OCLC and Sierra, you will need to add the new containers to the catalog record. In Sierra these are called item records. You can add a single item record or add many item records in bulk. 
 
-If you are cataloging an addition or adding multiple containers to a collection, skip to the section for [Adding Multiple Item Records to A Sierra Catalog Record](/Creating-Catalog-and-EAD-Records.md#adding-multiple-item-records-to-a-sierra-catalog-record).
+If you are cataloging an addition or adding multiple containers to a collection, skip to the section for [Adding Multiple Item Records to A Sierra Catalog Record](archival-processing/processing-manual/Creating-Catalog-and-EAD-Records.md#adding-multiple-item-records-to-a-sierra-catalog-record).
 
 ### Adding A Single Item Record to Sierra Catalog Record
 To add a single item record to a Sierra catalog record complete the following steps:
@@ -354,11 +354,11 @@ To add a single item record to a Sierra catalog record complete the following st
 
 2\. Make sure _i Item_  is selected in the _View_ dropdown menu.
 
-![Sierra Summary view](/images/157-sierra-item-view.jpg)
+![Sierra Summary view](../images/157-sierra-item-view.jpg)
 
 3\. Select the _Attach New Item_ button on the right.
 
-![Attach new item](/images/158-Attach-new-item.jpg)
+![Attach new item](../images/158-Attach-new-item.jpg)
 
 4\. Make sure the _single item_ radio button is selected and follow the prompts.
 
@@ -385,11 +385,11 @@ To add a multiple item records to a Sierra catalog record complete the steps bel
 
 1\. In the summary screen, select _Attach new item_. 
 
-![Attach New Item Button](/images/158-Attach-new-item.jpg)
+![Attach New Item Button](../images/158-Attach-new-item.jpg)
 
 2\. Select the radio button for Multiple items. 
 
-![multiple items sierra](/images/159-multiple-items-sierra.png)
+![multiple items sierra](../images/159-multiple-items-sierra.png)
 
 3\. If you add the first barcode of the materials you are cataloging to the _beginning barcode_ files, the system will automatically generate the subsequent barcode numbers. If the barcodes you used were not sequential, **do not enter a barcode here**, you can add them manually to the item records later.
 
@@ -423,11 +423,11 @@ To add a multiple item records to a Sierra catalog record complete the steps bel
 
 14\. Once you have filled in all the fields, go to the _Summary_ screen to see that the new items have been created. 
 
-![Sierra Summary Screen](/images/160-Sierra-Summary-Screen.png)
+![Sierra Summary Screen](../images/160-Sierra-Summary-Screen.png)
 
 12\. Once you select _Save all_, the item records will be created and will appear in the OPAC. Make sure you add the barcodes before closing the record, and remember that items can be edited or deleted at any point if you notice any errors or make any mistakes.
 
-![Sierra Save All](/images/161-SIerra-Save-All.png)
+![Sierra Save All](../images/161-SIerra-Save-All.png)
 
 ### Adding Barcodes to New Item Records
 
@@ -435,19 +435,19 @@ To add a multiple item records to a Sierra catalog record complete the steps bel
 
 2\. Go to the edit menu on the top, and select _modify group_.
 
-![Modify Group](/images/149-modify-group.png)
+![Modify Group](../images/149-modify-group.png)
 
 3\.Click on the field box and select _barcode_ from the menu that pops up.
 
-![Sierra Field Barcode](/images/162-Sierra-Field-barcode.png)
+![Sierra Field Barcode](../images/162-Sierra-Field-barcode.png)
 
 4\. Scan or enter in the barcodes for each item.
 
-![Sierra Enter Barcodes](/images/163-Sierra-Barcode.jpg)
+![Sierra Enter Barcodes](../images/163-Sierra-Barcode.jpg)
 
 5\. When you have finished entering the barcodes, select _save_ at the top right. This will save the barcodes in Sierra and in the OPAC.
 
-![Sierra Save Button](/images/164-Sierra-Save-Button.png)
+![Sierra Save Button](../images/164-Sierra-Save-Button.png)
 
 # Creating EAD Records and Editing in Oxygen
 Once you have finished cataloging a collection, the final step is to create an EAD record, which will be uploaded by your manager to [the archives portal](https://archives.nypl.org/) in order to publish your finding aid. Archival Processing currently uses the [EAD 2002](https://www.loc.gov/ead/tglib/element_index.html) standard. For more information on encoded standards, see the resources from the Society of American Archivists’ [Technical Subcommittee on Encoded Archival Standards](https://saa-sdt.github.io/EAS-Best-Practices/) (TS-EAS). Follow the instructions below to finalize your collection’s EAD. 
@@ -456,15 +456,15 @@ Once you have finished cataloging a collection, the final step is to create an E
 
 2\. In SPEC, navigate to the collection record and select the edit icon. Add the bnumber to the _catalog bnumber_ field.
 
-![SPEC bnumber](/images/165-SPEC-bnumber.png)
+![SPEC bnumber](../images/165-SPEC-bnumber.png)
 
 3\. Go back to your collection’s ArchivesSpace record and add the bnumber as an _identifier_.
 
-![ASpace bnumber](/images/166-ASpace-bnumber.png)
+![ASpace bnumber](../images/166-ASpace-bnumber.png)
 
 4\. Go to the _Export_ menu and select _Download EAD._
 
-![ASpace EAD Export](/images/167-ASpace-EAD-Export.png)
+![ASpace EAD Export](../images/167-ASpace-EAD-Export.png)
 
 5\. Open the downloaded file in Oxygen XML Editor.
 
