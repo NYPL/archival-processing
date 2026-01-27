@@ -1,6 +1,6 @@
 ---
 title: Location Management
-permalink: /processing-manual/prcoessing-collections/location-management/
+permalink: /processing-manual/processing-collections/location-management/
 layout: default
 parent: Processing Collections
 grand_parent: Processing Manual
