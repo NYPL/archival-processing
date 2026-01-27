@@ -234,17 +234,17 @@ Below is information on how to properly store audio and moving image items in me
 
 ### Audio Reels 
 Stand on edge in record cartons 
-![audio reel](/processing-manual/images/27-audio-reels.png)
+![audio reel](../images/27-audio-reels.png)
 
 ### Audio Cassettes 
 On long edge in cassette boxes. Cassette boxes are then stacked three to a record carton. 
-![audio cassettes](/processing-manual/images/28-audio-cassettes.png)
+![audio cassettes](../images/28-audio-cassettes.png)
 
 ### Small Video Cassettes (hi-8 and other small formats)
 On long edge in cassette boxes. Cassette boxes are then stacked three to a record carton.
-![small format cassettes](/processing-manual/images/29-small-format-cassettes.png)
+![small format cassettes](../images/29-small-format-cassettes.png)
 
 ### Large Video Cassettes (U-matic/Beta)
 With long edge greater than nine inches should be stored on long edge in record cartons. Place the identifier labels where they are visible when looking into the record carton.
-![large format video cassettes](/processing-manual/images/30-Umatic.png)
+![large format video cassettes](../processing-manual/images/30-Umatic.png)
 This example shows beta tapes that fit on the short edge with labels on the top of the cassette (left and right) as well as longer cassettes (center) with labels on the spine.
