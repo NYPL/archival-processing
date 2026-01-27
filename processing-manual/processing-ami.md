@@ -8,7 +8,7 @@ has_children: false
 ---
 # Processing Audio and Moving Image Material
 {: .no_toc }
-The arrangement and description of audio and moving image (AMI) material utilizes many of the same guiding principles as other archival materials, but involves additional steps because AMI is described on the item level to facilitate digitization for long-term preservation and access. This section details the tasks and special considerations that are necessary when working with AMI in archival collections, and addresses identification, inventory, and housing of these materials. The Media Preservation Services department facilitates and coordinates the preservation and digitization of AMI. See the [Media Preservation Documentation Portal](https://nypl.github.io/ami-preservation/) for further information about the ways in which media is digitized and preserved. 
+The arrangement and description of audio and moving image (AMI) material utilizes the same guiding principles as other archival materials, but involves additional steps because AMI is described on the item level to facilitate digitization for long-term preservation and access. This section details the tasks and special considerations that are necessary when working with AMI in archival collections, and addresses identification, inventory, and housing of these materials. The Audio and Moving Image Preservation department facilitates and coordinates the preservation and digitization of AMI. See the [NYPL AMI Preservation Documentation Portal](https://nypl.github.io/ami-preservation/) for further information about the ways in which media is digitized and preserved. 
 
 ## Table of Contents
  {: .no_toc .text-delta }
@@ -16,7 +16,7 @@ The arrangement and description of audio and moving image (AMI) material utilize
 {:toc}
 
 # Identification of Audio and Moving Image Content
-There are many resources that can aid in identifying the audio and moving image materials in a collection. Some helpful identification resources are listed below. If you are unable to identify any of the media in your collection, talk to your supervisor and contact the Manager of Audio and Moving Image Description.
+While AMI formats will be identified by Collection Management during accessioning, it is still important to be able to identify AMI formats in your collection. There are many resources that can aid in identifying audio and moving image recordings. Some helpful identification resources are listed below. 
 
 **All Formats**
 
@@ -36,20 +36,18 @@ The National Film and Sound Archive of Australia has a [short technical guide](h
 
 **Preservation Issues**
 
-Often AMI with preservation issues is discovered during accessioning, and physically separated from the collection. Collection Management will assess the preservation concerns and determine whether the materials will need to be sent to a vendor for remediation. However, you still may encounter additional AMI content with preservation issues during your appraisal or inventory. Some common issues are mold and film with vinegar syndrome. The [filmcare.org](https://filmcare.org/visual_decay) site is a useful resource in helping to identify potential preservation issues. If you are unsure if something is an AMI preservation issue, reach out to Collection Management for guidance.
+Often AMI with preservation issues is discovered during accessioning, and physically separated from the collection. Collection Management will assess the preservation concerns and determine whether the materials will need to be sent to a vendor for remediation. However, you still may encounter additional AMI content with preservation issues during processing. Some common issues are mold and film with vinegar syndrome. The [filmcare.org](https://filmcare.org/visual_decay) site is a useful resource in helping to identify potential preservation issues. If you are unsure if something is an AMI preservation issue, check with your supervisor, who may decided to reach out to Collection Management for guidance.
 
 # AMI Inventory and Description
-AMI in archival collections are accessioned on an item level by Collection Management when a new acquisition is received, or when a backlog collection is shipped to the Archival Processing unit for processing. Each piece of media is labeled with a barcode and a unique AMI identifier generated in SPEC. Collection Management will also update SPEC with the format of each object. 
+AMI in archival collections are accessioned on an item level by Collection Management when a new acquisition is received, or when a backlog collection is shipped to Archival Processing for description. Each piece of media is labeled with a barcode and a unique AMI identifier generated in SPEC. Collection Management will also update SPEC with the format of each object. 
 
-For acquisitions received in 2023 to the present, the AMI inventory will be attached to the acquisition record. Older collections may have a preliminary inventory with bibliographic data attached to the collection record. 
+For acquisitions received from 2023 to the present, the AMI inventory will be attached to the acquisition record. Older collections may have a preliminary inventory with bibliographic data attached to the collection record. 
 
-In the Archival Processing unit, the inventory of AMI in archival collections is performed by exporting a spreadsheet of the initial Collection Management inventory and enhancing it with DACS-compliant descriptive data, including titles, dates, and tracklists. 
-
-During the inventory, if you encounter incorrect formats, you should correct the record in SPEC. 
+In Archival Processing, description of AMI in archival collections is performed by exporting a spreadsheet of the initial Collection Management inventory and enhancing it with DACS-compliant descriptive data, including titles, dates, and tracklists. If you encounter incorrect formats during processing, you should correct the record in SPEC. 
 
 If you encounter AMI that is not inventoried, or electronic records mistakenly inventoried as AMI, contact Collection Management. They will make arrangements to review the media and create or correct the records in SPEC.
 
-The inventory the you export and create in a spreadsheet will be imported into ArchivesSpace. See the section on [Importing an Audio and Moving Image Inventory](/Processing_AMI.md#importing-an-ami-inventory-into-archivesspace) into ArchivesSpace for instructions on how to do this.
+The inventory the you export and description you create in a spreadsheet will be imported into ArchivesSpace. See the section on [Importing an Audio and Moving Image Inventory](/Processing_AMI.md#importing-an-ami-inventory-into-archivesspace) into ArchivesSpace for instructions on how to do this.
 
 ## Moving a SPEC AMI Inventory to the SPEC Collection Record
 Before you begin processing any AMI, your first step is to move the inventory into the acquisition’s associated collection record. To do this follow the steps below:
@@ -161,19 +159,19 @@ The fields that will import into ASpace are listed below. When you import your i
 ## Creating An AMI Inventory for ArchivesSpace Import
 After you have exported the inventory spreadsheet, fill in the descriptive metadata directly from the text on the media object. If the object has already been digitized, you should also view the recording in EAVie to verify the accuracy of the description on the physical object. You should complete your inventory with the final collection arrangement in mind. Try to group the media into subseries or topical groups whenever possible using the _group_ (series) column, and avoid repetition and unnecessary text whenever possible. For example, if a piece of media is titled with the collection name followed by the name of a song, you only need to record the song title in the _title_ field.
 
-When completing your inventory, you do not need to complete all fields of your exported SPEC spreadsheet. Fields like the _Classmark_ are relatively rare. The purpose of the audio and moving image description in the finding aid is to most accurately describe the content of the media. If the media you are inventorying contains a lot of annotations or notes on the container which have research value, consult with your supervisor about the best way to capture and describe this content. In certain cases, a decision may be made to scan the media. In this case a note will be included in the finding aid indicating how researchers can access this scanned content.
+When completing your AMI description, you do not need to complete all fields of your exported SPEC spreadsheet. Fields like the _Classmark_ are relatively rare. The purpose of the audio and moving image description in the finding aid is to most accurately describe the content of the media. If the media you are inventorying contains a lot of annotations or notes on the container which have research value, consult with your supervisor about the best way to capture and describe this content. In certain cases, a decision may be made to scan the media. In this case a note will be included in the finding aid indicating how researchers can access this scanned content.
 
 ### Papers and Documentation in AMI Containers
-As you inventory and describe AMI, remove any loose papers and documentation found inside a media enclosure, and place these in a folder labeled with the identifier number of the Media Original item. By retaining this information, you will be able to describe the paper and AMI together in the finding aid. It is best to integrate each separated paper into the container list. For some legacy collections where the papers have already been separated and their origin is unclear, you may need to create a file with a title such as, _Separated Papers_, that includes all the separated items. 
+As you processs the AMI, remove any loose papers and documentation found inside a media enclosure, and place these in a folder labeled with the identifier number of the Media Original item. By retaining this information, you will be able to describe the paper and AMI together in the finding aid. It is best to integrate each separated paper into the container list. For some legacy collections where the papers have already been separated and their origin is unclear, you may need to create a file with a title such as, _Separated Papers_, that includes all the separated items. It is best to avoid this unless it is absolutely necessary.
 
 ## Importing An AMI Inventory into ArchivesSpace
-Regardless of which export you use to complete your inventory, you will need to ensure that your final inventory matches exactly to the fields in the AMI ASpace Export before attempting to import it into ArchivesSpace. Consult the [SPEC CSV Export to AMI ASpace Export Crosswalk](https://docs.google.com/document/d/1N8LUcXUj0dsW0snVo1Njd1OCFrUFoje2zIAnV1AcTYY/edit?usp=sharing) or review the sections above to assure you have the data in the correct fields. 
+Regardless of which export you use to complete your AMI description, you will need to ensure that your final inventory matches exactly to the fields in the AMI ASpace Export before attempting to import it into ArchivesSpace. Consult the [SPEC CSV Export to AMI ASpace Export Crosswalk](https://docs.google.com/document/d/1N8LUcXUj0dsW0snVo1Njd1OCFrUFoje2zIAnV1AcTYY/edit?usp=sharing) or review the sections above to assure you have the data in the correct fields. 
 
-Remember that individual AMI components should never be manually created in ASpace, and must always be imported from SPEC. This ensures that AMI identifiers exactly match between SPEC and ASpace, and that metadata in the finding aid is populated in the correct fields. 
+Remember that individual AMI components should not be manually created in ASpace, and must always be imported from SPEC. This ensures that AMI identifiers exactly match between SPEC and ASpace, and that metadata in the finding aid is populated in the correct fields. 
 
-The Archival Processing unit does not currently import original format information unless it is specifically requested by the division. Always delete the data in the original formats fields (column L) prior to import. 
+Archival Processing does not currently import original format information unless it is specifically requested by the division. **Always delete the data in the original formats fields (column L) prior to import**. 
 
-The import script will automatically generate an extent statement of "1 audio recording" for sound recordings and "1 moving image recording" for film or video recordings.
+The ASpace import script will automatically generate an extent statement of "1 audio recording" for sound recordings and "1 moving image recording" for film or video recordings.
 
 ### Uploading and Transforming Data in Google Sheets
 Follow the steps below to transform all data in your inventory to plain text to prepare it for import into ArchivesSpace.
@@ -227,7 +225,28 @@ Once you have completed data cleanup on your spreadsheet in Google Sheets, and y
 
 See the [Description of Audio and Moving Image in ASpace](/Description_of_AMI_in_ASpace.md) section of this documentation for information about how to arrange and describe audio and moving image materials after they have been imported into ASpace.
 
-# Media Originals
-At NYPL, a single AMI item is called a Media Original. AMI is stored by format in division-specific media originals boxes. The logistics of housing media originals and shipping it offsite for digitization and longterm storage is managed by Collection Management and Audio and Moving Description (AMI-D). You should keep all your media originals together in temporary boxes as you inventory and describe them. 
+# Housing Media Originals
+At NYPL, a single AMI item is called a Media Original. AMI is stored by format in division-specific media originals boxes to support digitization workflows. Every effort should also be made to keep AMI from a single collection housed together. How AMI is housed will also depend on if it has already been digitized. Work with your supervisor to determine the digitization timeline and housing practices for your collection. 
 
-When you have completed processing your collection, copy your collection's trello card to Processed AMI queue in Trello. See the [Shipping Processed Collections](/Shipping-processed-collections.md) section of this documentation for more detail on this process. The workflow will differ by division and if the AMI in your collection has already been digitized.  
+The logistics of housing media originals and shipping it offsite for digitization and longterm storage is managed by Archival Processing Management in consultation with Collection Management and Audio and Moving Image Preservation. 
+
+Below is information on how to properly store audio and moving image items in media originals boxes. A general guiding principle is that the AMI ID numbers are visible when looking into the box. 
+
+### Audio Reels 
+Stand on edge in record cartons 
+![audio reel](/Images/27-audio-reels.png)
+
+### Audio Cassettes 
+On long edge in cassette boxes. Cassette boxes are then stacked three to a record carton. 
+![audio cassettes](Images/28-audio-cassettes.png)
+
+### Small Video Cassettes (hi-8 and other small formats)
+On long edge in cassette boxes. Cassette boxes are then stacked three to a record carton.
+![small format cassettes](/Images/29-small-format-cassettes.png)
+
+### Large Video Cassettes (U-matic/Beta)
+With long edge greater than nine inches should be stored on long edge in record cartons. Place the identifier labels where they are visible when looking into the record carton.
+
+This example shows beta tapes that fit on the short edge with labels on the top of the cassette (left and right) as well as longer cassettes (center) with labels on the spine.
+
+
