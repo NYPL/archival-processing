@@ -25,7 +25,7 @@ Collection dossiers are arranged into folders by curatorial division, and sorted
 
 Acquisition information for collections received after July 2021 are located in the SPEC record, and additional documentation is located in the acquisition folder in Google Drive. Acquisition folders use the following format: _Acquisition Number\_Acquisition Name_. You can navigate to a collection’s acquisition folder directly from the SPEC acquisition record by selecting the folder icon in the top right. All completed [processing proposals](/Processing_Proposal.md) and closing memos should also be added to the acquisition folder. 
 
-![SPEC Folder Icon](Images/01-SPEC_Folder.png)
+![SPEC Folder Icon](../images/01-SPEC_Folder.png)
 
 ## Related Collections
 Check if there are related collections at NYPL or another archival repository. Review any existing finding aids for similar collections. If the collection is an addition, locate the finding aid for the previous accruals in the [archives portal](http://archives.nypl.org/), and check with your supervisor if the new materials should be integrated into the existing finding aid, or described in a new finding aid.
