@@ -7,7 +7,7 @@ grandparent: Processing Manual
 nav_order: 3
 has_children: false
 ---
-# **Inclusive Cataloging Guidelines**
+# Inclusive Cataloging Guidelines
 Access terms are one of a limited selection of fields in a finding aid that will also appear in the catalog record, and also provides a way in which to filter searches in the [Archives Portal](https://archives.nypl.org/). For these reasons, it is crucial that these terms are respectful and accurate.[^1] This section provides resources and  guidelines for selecting access terms that are inclusive and ethical.[^2] For information on inclusive and reparative archival description, see the [Inclusive Description and Style Guidelines]() section of this documentation.
 
 Language and the words that communities and individuals use to describe themselves is continually evolving. Controlled vocabularies, such as the [Library of Congress Subject Headings](https://id.loc.gov/authorities/subjects.html) (LSCH), are revised, corrected, and updated much more slowly, while systems of [classification](https://www.loc.gov/catdir/cpso/lcco/) tend to remain static.[^3] There is a long history of information professionals challenging these standards, and successfully removing offensive, outdated, and racist terms from use.[^4] Therefore, it is critical that all cataloging work is performed with these inconsistencies and issues in mind. 
