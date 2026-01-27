@@ -14,8 +14,8 @@ For more extensive details on ASpace container lists, see the [Archival Object (
 
 If your container list was imported, it is likely that some unnecessary repetition is present. For example, if multiple boxes and folders contain correspondence from a particular recipient, there is no need to create a component for each folder. Instead, you can link all the boxes and a folder ranges to a single component by adding additional box instances and/or folder ranges to the component. The [Instance Links]() section of the ASpace User Guide details how to do this. 
 
-If your collection contains dates that are not consecutive, such as 1981, 1999-2010, you will need to enter the dates in two separate date forms in ASpace as illustrated below. The [ASpace User Guide]() contains detailed information about how to properly record dates in your container list. 
+If your collection contains dates that are not consecutive, such as 1981, 1999-2010, you will need to enter the dates in two separate date forms in ASpace as illustrated below. The [ASpace User Guide](/archival-processing/aspace) contains detailed information about how to properly record dates in your container list. 
 
-![ASpace Date Field](/images/84-ASpace-dates.png)
+![ASpace Date Field](../images/84-ASpace-dates.png)
 
 
