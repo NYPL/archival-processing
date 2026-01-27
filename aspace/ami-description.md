@@ -11,6 +11,12 @@ has_children: false
 
 This section covers how to describe AMI recordings in ArchivesSpace. AMI components should never be manually created in ASpace. AMI data should be exported from SPEC, desribed in a spreadsheet, and then imported into ASpace. This ensures that AMI identifiers exactly match between SPEC and ASpace, and that metadata in the finding aid is populated in the correct fields. This section only covers tasks specific to ASpace. For information about descriptive practices, see the sections of the Archival Processing Manual on [Processing Audio and Moving Image Material](https://nypl.github.io/archival-processing/processing-manual/processing-ami/) and [Description of Electronic Records in ArchivesSpace](https://nypl.github.io/archival-processing/processing-manual/archival-description/description-of-ers-in-aspace/).
 
+## Table of Contents
+{: .no_toc .text-delta }
+
+- TOC
+{:toc}
+
 # Working With AMI Imported into ASpace
 After your SPEC AMI inventory is imported into ASpace, you will see a new series-level component titled _AMI Series_. This component will always contain three child-components: Audio, Video, and Film, which is illustrated below.
 
