@@ -7,8 +7,8 @@ grand_parent: Processing Manual
 nav_order: 3
 has_children: false
 ---
-# **Location Management in the Archival Processing Unit**
-You must update the physical locations of all containers in your collection during processing. Collection Management monitors and manages all storage locations, but it is the responsibility of the processing archivist to make sure each object’s location is up to date in SPEC. Most shelves and rooms at LSC have location barcodes that can be scanned directly into SPEC. Archivists should keep a copy of their workspace room’s barcode at their desks. When you bring collection containers from the stacks to your desk, you must update the location in SPEC, and you must do the same for processed materials being stored in the stacks or at your workspace prior to shipment. Collection Management also has [documentation](clmgt/Location_Management.md) that outlines procedures for location management at LSC. 
+# Location Management in Archival Processing
+You must update the physical locations of all containers in your collection during processing. Collection Management monitors and manages all storage locations, but it is the responsibility of the processing archivist to make sure each object’s location is up to date in SPEC. Most shelves and rooms at LSC have location barcodes that can be scanned directly into SPEC. Archivists should keep a copy of their workspace room’s barcode at their desks. When you bring collection containers from the stacks to your desk, you must update the location in SPEC, and you must do the same for processed materials being stored in the stacks, on barcoded shelves, or at your workspace prior to shipment. 
 
 The chart below details all the times you need to update collection location information in SPEC:
 
@@ -22,7 +22,7 @@ The chart below details all the times you need to update collection location inf
 
 Below are instructions on how to update locations using the Object Barcode App and from the Object Search screens in SPEC. The [SPEC Objects Manual](spec/specObjects.md) also has detailed instructions on how to perform all these tasks, as well as a section about [location](spec/specObjectsLocations.md) management.
 
-## **Updating Locations Using the SPEC Object Barcode App**
+## Updating Locations Using the SPEC Object Barcode App
 From the SPEC landing page navigate to the Object Barcode App under the Object menu.
 
 ![SPEC Objects Barcode Menu](archivalProcessing/Images/08-Objects-barcode-menu.png)
@@ -43,10 +43,10 @@ This will make the previous location inactive, and update the location to the ne
 
 Repeat these steps for each location you need to change. If you have to update many locations, it is recommended that you use the _Object Search_ or _Batch Object Editor_ functions in SPEC.
 
-## **Updating Locations in SPEC Using the Object Editor**
+## Updating Locations in SPEC Using the Object Editor
 First, navigate to your collection’s objects list. There are a few ways to update locations from the _Object Search_ screen. If you are moving containers from the stacks to your desk, and updating each object’s location to a single new location, it is generally best to use the _Bulk Edit_ function. If you are moving containers from your workspace to the stacks, then the _Batch Edit_ function is generally most useful.
 
-### **Location Management with the SPEC Bulk Editor**
+### Location Management with the SPEC Bulk Editor
 Once you have moved collection containers from the stacks to your desk, open your collection’s objects list. Select the _Action_ button at the top left to open the _bulk editor menu_, then choose _select all_ to select all the objects in your collection. 
 
 ![SPEC Bulk Edit Menu](/images/12-SPEC_Bulk_Edit.png)
@@ -69,7 +69,7 @@ Once you have entered the new barcode, select the green _Apply Location to Selec
 
 SPEC will return to the _Objects Search_ screen and update all the object locations you selected. The new location will be reflected in the _Location_ field. 
 
-### **Location Management with the SPEC Batch Editor**
+### Location Management with the SPEC Batch Editor
 You can also update collection object locations from the SPEC _Batch Editor_. There are no bulk editing capabilities from this screen, but you are able to make your edits from a list view for individual items. This is a good option for shelving processed collections in the stacks, or other situations when you will be moving many objects to various locations. 
 
 To use the SPEC _Batch Editor_, navigate to your collection’s objects in SPEC and _All_ next to _Batch edit_ at the top of the screen. 
