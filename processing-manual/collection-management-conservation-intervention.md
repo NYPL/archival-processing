@@ -1,6 +1,6 @@
 ---
 title: Collection Management and Conservation Intervention
-permalink: /processing-manual/collection-management-conservation-intervention/
+permalink: /processing-manual/processing-collections/collection-management-conservation-intervention/
 layout: default
 parent: Processing Collections
 grand_parent: Processing Manual

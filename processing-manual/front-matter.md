@@ -1,6 +1,6 @@
 ---
 title: Front Matter
-permalink: /processing-manual/front-matter/
+permalink: /processing-manual/archival-description/front-matter/
 layout: default
 parent: Archival Description
 grandparent: Processing Manual

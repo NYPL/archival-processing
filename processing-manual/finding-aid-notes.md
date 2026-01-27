@@ -1,6 +1,6 @@
 ---
 title: Finding Aid Notes
-permalink: /processing-manual/finding-aid-notes/
+permalink: /processing-manual/archival-description/finding-aid-notes/
 layout: default
 parent: Archival Description
 grandparent: Processing Manual

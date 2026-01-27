@@ -1,6 +1,6 @@
 ---
 title: Identification and Handling of Classified Documents
-permalink: /processing-manual/identification-and-handling-of-classified-documents/
+permalink: /processing-manual/processing-collections/identification-and-handling-of-classified-documents/
 layout: default
 parent: Processing Collections
 grand_parent: Processing Manual

@@ -1,6 +1,6 @@
 ---
 title: Container List
-permalink: /processing-manual/container-list/
+permalink: /processing-manual/archival-description/container-list/
 layout: default
 parent: Archival Description
 grandparent: Processing Manual

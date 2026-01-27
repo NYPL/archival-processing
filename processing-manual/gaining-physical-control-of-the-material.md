@@ -1,6 +1,6 @@
 ---
 title: Gaining Physical Control of the Material
-permalink: /processing-manual/gaining-physical-control-of-the-material/
+permalink: /processing-manual/processing-collections/gaining-physical-control-of-the-material/
 layout: default
 parent: Processing Collections
 grand_parent: Processing Manual

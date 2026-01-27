@@ -1,6 +1,6 @@
 ---
 title: Controlled Access Terms
-permalink: /processing-manual/controlled-access-terms/
+permalink: /processing-manual/archival-description/controlled-access-terms/
 layout: default
 parent: Archival Description
 grandparent: Processing Manual

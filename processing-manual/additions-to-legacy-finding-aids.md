@@ -1,6 +1,6 @@
 ---
 title: Additions to Legacy Finding Aids
-permalink: /processing-manual/additions-to-legacy-finding-aids/
+permalink: /processing-manual/archival-description/additions-to-legacy-finding-aids/
 layout: default
 parent: Archival Description
 grandparent: Processing Manual

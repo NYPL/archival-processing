@@ -1,6 +1,6 @@
 ---
 title: Description of AMI in ArchivesSpace
-permalink: /processing-manual/description-of-ami-in-aspace/
+permalink: /processing-manual/archival-description/description-of-ami-in-aspace/
 layout: default
 parent: Archival Description
 grandparent: Processing Manual

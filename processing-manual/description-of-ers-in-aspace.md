@@ -1,6 +1,6 @@
 ---
 title: Description of Electronic Records in ArchivesSpace
-permalink: /processing-manual/description-of-ers-in-aspace/
+permalink: /processing-manual/archival-description/description-of-ers-in-aspace/
 layout: default
 parent: Archival Description
 grandparent: Processing Manual

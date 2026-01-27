@@ -1,6 +1,6 @@
 ---
 title: Entering Data Into The ArchivesSpace Processing Spreadsheet
-permalink: /processing-manual/entering-data-into-the-archivesspace-processing-spreadsheet/
+permalink: /processing-manual/processing-collections/entering-data-into-the-archivesspace-processing-spreadsheet/
 layout: default
 parent: Processing Collections
 grand_parent: Processing Manual

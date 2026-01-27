@@ -1,6 +1,6 @@
 ---
 title: Inclusive Cataloging Guidelines
-permalink: /processing-manual/inclusive-cataloging-guidelines/
+permalink: /processing-manual/archival-description/inclusive-cataloging-guidelines/
 layout: default
 parent: Archival Description
 grandparent: Processing Manual
