@@ -1,6 +1,6 @@
 ---
 title: Overview and Navigation
-permalink: /aspace/overview/
+permalink: /aspace/overview-and-navigation/
 layout: default
 parent: ArchivesSpace
 nav_order: 4
