@@ -53,24 +53,31 @@ The inventory the you export and description you create in a spreadsheet will be
 Before you begin processing any AMI, your first step is to move the inventory into the acquisition’s associated collection record. To do this follow the steps below:
 
 1\. Navigate to the acquisition record and select the inventory icon.
+
 ![SPEC Objects List](../processing-manual/images/37-SPEC-objects-list.jpg) 
 
 2\. When the inventory opens, filter the SPEC objects list just for AMI.
+
 ![SPEC AMI Filter](../processing-manual/images/38-AMI-objects_filter.jpg)
 
 3\. Select the _bulk action_ menu.
+
 ![SPEC Bulk Action Menu](../processing-manual/images/39-SPEC-Bulk-Action.jpg)
 
 4\. Choose _select all_ from the _Action_ menu. This will check the boxes for each AMI object.
+
 ![SPEC Select All](../processing-manual/images/40-SPEC-Select-All.jpg)
 
 5\. Select the _Action_ menu again, and this time choose _add to collection_.
+
 ![SPEC Add to Collection](../processing-manual/images/41-SPEC-add-to-collection.jpg)
 
 6\. A warning dialog box will open, select _OK_.
+
 ![SPEC warning box](../processing-manual/images/42-SPEC-Warning.jpg)
 
 7\. Search for the collection in the pop up box, and then choose the blue _select_ button next from the list.
+
 ![SPEC reference list](../processing-manual/images/43-SPEC-reference-list.jpg)
 
 8\. SPEC will then perform an operation to associate all the AMI with the collection record. This may take a few minutes. 
@@ -234,17 +241,21 @@ Below is information on how to properly store audio and moving image items in me
 
 ### Audio Reels 
 Stand on edge in record cartons 
+
 ![audio reel](..../processing-manual/images/27-audio-reels.png)
 
 ### Audio Cassettes 
 On long edge in cassette boxes. Cassette boxes are then stacked three to a record carton. 
+
 ![audio cassettes](..../processing-manual/images/28-audio-cassettes.png)
 
 ### Small Video Cassettes (hi-8 and other small formats)
 On long edge in cassette boxes. Cassette boxes are then stacked three to a record carton.
+
 ![small format cassettes](..../processing-manual/images/29-small-format-cassettes.png)
 
 ### Large Video Cassettes (U-matic/Beta)
 With long edge greater than nine inches should be stored on long edge in record cartons. Place the identifier labels where they are visible when looking into the record carton.
+
 ![large format video cassettes](../processing-manual/images/30-Umatic.png)
 This example shows beta tapes that fit on the short edge with labels on the top of the cassette (left and right) as well as longer cassettes (center) with labels on the spine.
