@@ -58,6 +58,21 @@ When working on arrangement, focus on tasks such as grouping together interviews
 
 In description, try to write out acronyms when they are known, and fix inconsistencies in titles. You should also use this time to format tracklists into ordered lists. See the instructions below for how to create ordered lists in ASpace.
 
+## Suppressing AMI Components
+The Dance division suppresses AMI content until it is digitized. Suppression allows for managing descriptive components within a finding aid without publishing them for public view. Remember that components cannot be edited or moved in ASpace until they are unsuppressed.
+
+To suppress an AMI component click on the _Suppress_ button on the top right of the Archival Object screen in ArchivesSpace.
+
+![suppress button](../aspace/Images/29-suppress-button.jpg)
+
+When you suppress a component in ASpace the component will not be published in the Archives Portal. The EAD export of all suppressed AMI will receive an “audience="internal" tag.
+
+All suppressed AMI components will also be grayed out in the PDF export.
+
+1[suppress pdf](../aspace/Images/30-suppress-pdf.png)
+
+Note that suppression is hierarchical. Suppressing a series will suppress all subseries and components under it.
+
 ## Ordered Lists For Audio and Moving Image Description
 Audio and moving image recordings and Born-Digital audio and video often include tracklists on the original media container. Although the track list will appear in list format in the _scope and content_ note in ASpace, the track list will display as block text in the finding aid pdf, in the EAD record, and in the finding aid uploaded to the Archives Portal. It is recommended that you reformat the text into a list using the _ordered list_ field in ASpace, which is a subfield of the _scope and content_ note. Follow the instructions below to add tracklists to your audio and moving image components. 
 
