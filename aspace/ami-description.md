@@ -72,7 +72,7 @@ When you suppress a component in ASpace the component will not be published in t
 
 All suppressed AMI components will also be grayed out in the PDF export.
 
-1[suppress pdf](../aspace/Images/30-suppress-pdf.png)
+![suppress pdf](../aspace/Images/30-suppress-pdf.png)
 
 Note that suppression is hierarchical. Suppressing a series will suppress all subseries and components under it.
 
