@@ -53,25 +53,25 @@ The inventory the you export and description you create in a spreadsheet will be
 Before you begin processing any AMI, your first step is to move the inventory into the acquisition’s associated collection record. To do this follow the steps below:
 
 1\. Navigate to the acquisition record and select the inventory icon.
-![SPEC Objects List](/images/37-SPEC-objects-list.jpg) 
+![SPEC Objects List](../processing-manual/images/37-SPEC-objects-list.jpg) 
 
 2\. When the inventory opens, filter the SPEC objects list just for AMI.
-![SPEC AMI Filter](/images/38-AMI-objects_filter.jpg)
+![SPEC AMI Filter](../processing-manual/images/38-AMI-objects_filter.jpg)
 
 3\. Select the _bulk action_ menu.
-![SPEC Bulk Action Menu](/images/39-SPEC-Bulk-Action.jpg)
+![SPEC Bulk Action Menu](../processing-manual/images/39-SPEC-Bulk-Action.jpg)
 
 4\. Choose _select all_ from the _Action_ menu. This will check the boxes for each AMI object.
-![SPEC Select All](/images/40-SPEC-Select-All.jpg)
+![SPEC Select All](../processing-manual/images/40-SPEC-Select-All.jpg)
 
 5\. Select the _Action_ menu again, and this time choose _add to collection_.
-![SPEC Add to Collection](/images/41-SPEC-add-to-collection.jpg)
+![SPEC Add to Collection](../processing-manual/images/41-SPEC-add-to-collection.jpg)
 
 6\. A warning dialog box will open, select _OK_.
-![SPEC warning box](/images/42-SPEC-Warning.jpg)
+![SPEC warning box](../processing-manual/images/42-SPEC-Warning.jpg)
 
 7\. Search for the collection in the pop up box, and then choose the blue _select_ button next from the list.
-![SPEC reference list](/images/43-SPEC-reference-list.jpg)
+![SPEC reference list](../processing-manual/images/43-SPEC-reference-list.jpg)
 
 8\. SPEC will then perform an operation to associate all the AMI with the collection record. This may take a few minutes. 
 
@@ -85,7 +85,7 @@ There are two types of exports, the _AMI Export_, which is a full csv export wit
 ### SPEC AMI Export 
 For larger collections, it is generally best to export this full AMI object list that includes additional metadata to help identify and keep track of content. This export is called _AMI Export_ and is the button on the left. 
 
-![AMI Export Button](Images/44-AMI-export-button.png)
+![AMI Export Button](../processing-manual/images/44-AMI-export-button.png)
 
 The section below details each field in the SPEC AMI Export and it's corresponding field in the [ASpace AMI Export](/Processing_AMI.md#spec-aspace-ami-export)
 
@@ -124,7 +124,7 @@ Follow the steps below to complete this export.
 
 3\. A dialog box will pop up when the export is finished.
 
-![SPEC file downloaded](../images/47-SPEC-file-downloaded.jpg)
+![SPEC file downloaded](../processing-manual/images/47-SPEC-file-downloaded.jpg)
 
 4\. It is recommended that you upload the csv to google drive and open it in google sheets before starting your inventory work. Excel sometimes adds special characters or formatting that can lead to data loss. 
 
@@ -133,7 +133,7 @@ If you have a small collection, you may choose to just export the basic AMI inve
 
 The _AMI ASpace Export_ button is also located on the left hand side of a SPEC collection record, just to the right of the _AMI Export_ button 
 
-![SPEC AMI ASpace Export Button](../images/48-AMI-ASpace_export-button.png)
+![SPEC AMI ASpace Export Button](../processing-manual/images/48-AMI-ASpace_export-button.png)
 
 When you select this button, a spreadsheet of all the AMI objects will automatically export to your desktop. This spreadsheet will export without column labels. It is recommended that you temporarily add labels before resuming inventory work. 
 
@@ -178,11 +178,11 @@ Follow the steps below to transform all data in your inventory to plain text to 
 
 1\. If you are not already working on your inventory in Google sheets, upload your spreadsheet to Google Drive, and open it in sheets.
 
-![Google Sheets](../images/49-google-sheets.jpg)
+![Google Sheets](../processing-manual/images/49-google-sheets.jpg)
 
 2\. Once the file is open in Google Sheets, you must format the data as Plain Text. Select all the columns and go to _Format -> Number -> Plain Text_.
 
-![save plain text](../images/50-save-plain-text.png)
+![save plain text](../processing-manual/images/50-save-plain-text.png)
 
 3\. Verify all the data is still accurate after changing it to plain text. By default, Google Sheets will guess at the data type for each column, which may have unexpected results, such as dates being transformed into date-time values. 
 
@@ -197,29 +197,29 @@ Once you have completed data cleanup on your spreadsheet in Google Sheets, and y
 
 1\. Download the file from Google Drive in XLSX format. To do this, go to: _File -> Download -> Microsoft Excel (.xlsx)_.
 
-![Download file for ASpace](../images/51-download-file-for-ASpace.jpg)
+![Download file for ASpace](../processing-manual/images/51-download-file-for-ASpace.jpg)
 
 2\. Once you have downloaded the inventory, open ASpace and make sure you are in the correct repository. 
 
 3\. Navigate to _Create -> Background Job -> Import Data_.
 
-![import AMI data](../images/52-import-AMI-data.jpg)
+![import AMI data](../processing-manual/images/52-import-AMI-data.jpg)
 
 4\. Select _AMI spreadsheet_ from the _Import Type_ menu.
 
-![AMI Background Job](../images/53-AMI-background-job.jpg)
+![AMI Background Job](../processing-manual/images/53-AMI-background-job.jpg)
 
 5\. Select the green _+ Add file_ button and browse to your downloaded XLSX file. You may also drag your file directly into ASpace.
 
 6\. Once you have dragged or selected your inventory file, you will see the file listed. To import it, select the blue Queue Job button.
 
-![queue job](/images/54-queue-job.jpg)
+![queue job](../processing-manual/images/54-queue-job.jpg)
 
 7\. You will be redirected to the background jobs screen, which indicates your import is in process. 
 
 8\. If you scroll further down the screen, you will see the job log, which shows the different tasks being run in the background to complete the import. If there are any errors in the import, they will be indicated in the job log. The image below is what a successful import log will look like.
 
-![ASpace job log](../images/54.1-Job-Log-ASpace.jpg)
+![ASpace job log](..../processing-manual/images/54.1-Job-Log-ASpace.jpg)
 
 9\. If your import fails and you are unable to decipher the error or troubleshoot it on your own, file a ServiceNow ticket.
 
@@ -234,15 +234,15 @@ Below is information on how to properly store audio and moving image items in me
 
 ### Audio Reels 
 Stand on edge in record cartons 
-![audio reel](../images/27-audio-reels.png)
+![audio reel](..../processing-manual/images/27-audio-reels.png)
 
 ### Audio Cassettes 
 On long edge in cassette boxes. Cassette boxes are then stacked three to a record carton. 
-![audio cassettes](../images/28-audio-cassettes.png)
+![audio cassettes](..../processing-manual/images/28-audio-cassettes.png)
 
 ### Small Video Cassettes (hi-8 and other small formats)
 On long edge in cassette boxes. Cassette boxes are then stacked three to a record carton.
-![small format cassettes](../images/29-small-format-cassettes.png)
+![small format cassettes](..../processing-manual/images/29-small-format-cassettes.png)
 
 ### Large Video Cassettes (U-matic/Beta)
 With long edge greater than nine inches should be stored on long edge in record cartons. Place the identifier labels where they are visible when looking into the record carton.
