@@ -25,29 +25,29 @@ At NYPL we have single sign on enabled. To login, simply click on the _NYPL Sign
 ## Welcome Screen
 When you first log into ArchivesSpace, the Welcome Screen will appear, as illustrated below. You will see your username on the top right. This section will explain the functionality of the menus and search boxes on the welcome screen. 
 
-![ArchivesSpace Welcome Screen](images/02-ASpace-Welcome-Screen.png)
+![ArchivesSpace Welcome Screen](../aspace/Images/02-ASpace-Welcome-Screen.png)
 
 ### Select Repository
 The active repository can be changed using the _Select Repository_ menu (as illustrated below). Each curatorial unit is represented by a repository in ArchivesSpace. Collections can only be accessed within their respective repository. For example, Dance (DAN) collections cannot be searched or browsed while the Manuscripts (MSS) repository is active.
 
-![Select Repo](images/03-Select-Repo.png)
+![Select Repo](../aspace/Images/03-Select-Repo.png)
 
 ### System
 System settings can be accessed with the _System_ menu. This will only contain a link to the ArchivesSpace documentation, which is labeled as _ArchivesSpace Help Center_ in the menu. You can also navigate to this documentation by clicking on the ? to the right of your username.
 
-![ASpace System Menu](images/04-ASpace-System-menu.png)
+![ASpace System Menu](../aspace/Images/04-ASpace-System-menu.png)
 
 ### User Preferences and Logout
 The down arrow to the right of your user name in the top right contains a menu with both _user preferences_ and the _logout_ option. You should not edit or revise the _user preferences_ settings.
 
-![User Preferences](images/05-user-preferences.png)
+![User Preferences](../aspace/Images/05-user-preferences.png)
 
 ### Browse Menu
 _Resources, agents, and subjects_ can be searched and browsed from the _Browse_ menu. Selecting an option under that menu will call up a list of all entities of the selected type available in the active repository. Since we do not use ASpace for accessions, digital objects, assessments, or location management, selecting these categories will yield no results. 
 
 This menu also allows you to browse _background jobs,_ which will display a chronological list of imports, exports, and reports generated. This is particularly helpful if you want to view a recently created pdf export, or to locate an import or export error you encountered. 
 
-![Browse Menu](images/06-browse-menu.png)
+![Browse Menu](../aspace/Images/06-browse-menu.png)
 
 ### Create Menu
 Each function outlined in the _Create_ drop-down is also available to be viewed in the _Browse_ menu. Most users will only have permissions to create _resource_ records, _subjects,_ and _agents._ 
@@ -60,30 +60,30 @@ When creating new _agents_ and _subjects_ follow the guidelines laid out in the 
 
 You will use the _background job_ menu when you need to export a pdf or import AMI, electronic records, or a processing spreadsheet.  
 
-![Create Menu](images/07-create-menu.png)
+![Create Menu](../aspace/Images/07-create-menu.png)
 
 ### Search All Records
 The _Search All Records_ box will search all records associated with the currently selected repository. This will return all agents, resources, archival objects, and containers available to a repository.
 
-![Search all records](images/08-search-all-records.png)
+![Search all records](../aspace/Images/08-search-all-records.png)
 
 ### Advanced Search
 ArchivesSpace also has advanced search features, which you can access by selecting the ^ next to the _search all records_ box. When you press this button the search screen will expand as illustrated below.
 
-![Advanced Search](images/09-advanced-search.png)
+![Advanced Search](../aspace/Images/09-advanced-search.png)
 
 With Advanced Search, three  types of search fields (Text, Date, Boolean) can be linked together when you click the green +  button to add a new search row.
 
-![Advanced Search Drop Down](images/10-advance-search-dropdown.png)
+![Advanced Search Drop Down](../aspace/Images/10-advance-search-dropdown.png)
 
 Advanced search supports searching and filtering by creator, identifier, keyword, notes, subject, and title.
 
-![Advanced Search Type Menu](images/11-Advanced-search-type-menu.png)
+![Advanced Search Type Menu](../aspace/Images/11-Advanced-search-type-menu.png)
 These advanced search fields can be used in any combination, but the search needs to be connected with Boolean operators. AND, OR, and NOT are the available options. A simple example is illustrated below.
 
-![Advanced Search Example](images/12-Advanced-Search-example.png)
+![Advanced Search Example](i../aspace/Images12-Advanced-Search-example.png)
 
 ### Gear Icon Menu
 The gear icon menu, which is located next to the active repository name, includes the [Manage Top Containers]() option, as well as another method to access _Background Jobs._ The other menu options are not used in our staff interface.
 
-![Gear Menu](images/13-gear-menu.png)
+![Gear Menu](../aspace/Images/13-gear-menu.png)
