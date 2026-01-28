@@ -7,15 +7,15 @@ grandparent: Processing Manual
 nav_order: 7
 has_children: false
 ---
-# Description of Audio and Moving Image Material in ASpace
+# Description of Audio and Moving Image Recordings in ASpace
 {: .no_toc }
 After you import your audio and moving image inventory into ASpace, it will appear as a single series called _AMI Series._ The items will be further arranged into the group names you assigned under the larger groupings of _Sound Recordings_, _Videos_, and _Film_. 
 
-![AMI Series](/images/88-AMI-series.png)
+![AMI Series](../processing-manual/images/88-AMI-series.png)
 
 These are just placeholder series and subseries that you should re-arrange in a manner that reflects the arrangement in the rest of the collection. It is important to also note that the Archival Processing unit does not use the _item_ level of description in ArchivesSpace. Individual audio and moving image items should always receive the _file_ level of description.
 
-![ASpace File Level](/images/89-ASpace-file-level.png)
+![ASpace File Level](../processing-manual/images/89-ASpace-file-level.png)
 
 Make a component title in the appropriate place(s) in the finding aid for all of the groups of audio and moving image content that will be digitized. The component titles should be as specific as possible and focus on the content, not the specific formats of the audio and moving image materials. For instance, if a group of sound recordings are all interviews, the component should be called _interviews_ not _sound recordings_. Also, if there are many interviews present, which were recorded as video and audio recordings, these can be combined into a single heading called _Interviews_. Just because media are in different formats does not mean they need to be described separately as _audio recordings_ and _video recordings_. The extent statement for each AMI object will identify it as audio or video. 
 
@@ -33,11 +33,11 @@ The Dance division suppresses AMI content until it is digitized. When supressing
 ## AMI Component Extent Statements
 Just like electronic records, each AMI component should have an extent statement. The extent statement should state the number of recordings and whether the recording audio or moving image. In ArchivesSpace, the extent field will look like this:
 
-![AMI Component Extent](/images/90-AMI-component-extent.png)
+![AMI Component Extent](../processing-manual/images/90-AMI-component-extent.png)
 
 If the division requests to include the original media format, use the controlled SPEC term in the _Physical Details_ field of the ASpace extent form as illustrated below.
 
-![AMI original media formats](/images/177-original-media-formats-extent.png)
+![AMI original media formats](../processing-manual/images/177-original-media-formats-extent.png)
 
 ## Audio and Moving Image Access Notes In ArchivesSpace
 In both the front matter and at the level immediately above the audio and moving image components, provide the division's _Conditions Governing Access Note_. 
