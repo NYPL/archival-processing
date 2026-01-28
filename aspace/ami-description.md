@@ -20,21 +20,21 @@ This section covers how to describe AMI recordings in ArchivesSpace. AMI compone
 # Working With AMI Imported into ASpace
 After your SPEC AMI inventory is imported into ASpace, you will see a new series-level component titled _AMI Series_. This component will always contain three child-components: Audio, Video, and Film, which is illustrated below.
 
-![AMI Series](../aspace/images/14_ami-series.jpg)
+![AMI Series](/aspace/images/14_ami-series.jpg)
 
 Remember that these are just place-holder names, which are almost never kept in your final description.
 
 Each format type will contain child components corresponding to the _group_ names you assigned in your inventory. 
 
-![AMI Group](../aspace/images/15-ami-groups.jpg)
+![AMI Group](/aspace/images/15-ami-groups.jpg)
 
 If you did not assign group names, then components will just appear in the order you created them. 
 
-![AMI No Groups](../aspace/images/16-ami-no-groups.jpg)
+![AMI No Groups](/aspace/images/16-ami-no-groups.jpg)
 
 If you used the _sequence_ field in your inventory, these numbers will be appended to the title in brackets. 
 
-![AMI Sequence](../aspace/images/17-ami-sequence.jpg)
+![AMI Sequence](/aspace/images/17-ami-sequence.jpg)
 
 # AMI Extents
 Each AMI component should include an extent statement of _1 audio recording_ or _1 moving image recording_. See the section of the processing manual on [AMI extents](/archival-processing/processing-manual/description-of-ami-in-aspace.md#ami-component-extent-statements). AMI extents are automatically added to each component when the AMI inventory is imported into ASpace.
@@ -45,12 +45,12 @@ This section addresses some common post-import descriptive tasks to perform in A
 ## Splitting Non-Consecutive Dates
 If an AMI item has multiple dates associated with it in the inventory, all dates will be imported into a single Date field. You will need to manually move non-consecutive dates into their own dates subfield as illustrated below.
 
-![non-consecutive dates](../aspace/images/18-non-consecutive-dates.jpg)
+![non-consecutive dates](/aspace/images/18-non-consecutive-dates.jpg)
 
 ## Publishing Notes
 Notes imported into ASpace via the inventory spreadsheet are often unpublished by default. This means the notes will not appear in the PDF export of the finding aid, and will be "internal" notes in the EAD. Once you have completed your import, make sure to select the Publish All button from the top-level of the Resource record, as illustrated below. 
 
-![publish all](../aspace/images/19-publish-all.png)
+![publish all](/aspace/images/19-publish-all.png)
 
 ## Working with Unavailable Material
 AMI is often not digitized before the inventory is added to the finding aid. There is still much that can be done to describe what you do know about the media since you will have gained a strong level of knowledge and experience with the collection through processing. 
