@@ -20,7 +20,7 @@ At NYPL all work in ASpace occurs in the _staff interface_. When you navigate to
 ## Logging in 
 At NYPL we have single sign on enabled. To login, simply click on the _NYPL Sign In_ button. As long as you are logged into your NYPL email, you will be automatically logged in. Otherwise, you will be prompted to sign in to your email first. Once you are signed in to ASpace, you will see that your username is the same as your email username. 
 
-![ArchivesSpace Single Sign On](images/01-ASpace-SSO.png)
+![ArchivesSpace Single Sign On](../aspace/Images/01-ASpace-SSO.png)
 
 ## Welcome Screen
 When you first log into ArchivesSpace, the Welcome Screen will appear, as illustrated below. You will see your username on the top right. This section will explain the functionality of the menus and search boxes on the welcome screen. 
