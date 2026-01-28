@@ -37,7 +37,7 @@ If you used the _sequence_ field in your inventory, these numbers will be append
 ![AMI Sequence](../aspace/Images/17-ami-sequence.jpg)
 
 # AMI Extents
-Each AMI component should include an extent statement of _1 audio recording_ or _1 moving image recording_. See the section of the processing manual on [AMI extents](/archival-processing/processing-manual/description-of-ami-in-aspace.md#ami-component-extent-statements). AMI extents are automatically added to each component when the AMI inventory is imported into ASpace.
+Each AMI component should include an extent statement of _1 audio recording_ or _1 moving image recording_. See the section of the processing manual on [AMI extents](https://nypl.github.io/archival-processing/processing-manual/archival-description/description-of-ami-in-aspace/#ami-component-extent-statements). AMI extents are automatically added to each component when the AMI inventory is imported into ASpace.
 
 # Arranging AMI Components in ASpace
 This section addresses some common post-import descriptive tasks to perform in ASpace. For detailed information on how to arrange and describe audio and moving image content in finding aids see the [Processing Audio and Moving Image Material](https://nypl.github.io/archival-processing/processing-manual/processing-ami/) and [Description of Electronic Records in ArchivesSpace](https://nypl.github.io/archival-processing/processing-manual/archival-description/description-of-ers-in-aspace/) sections of the Archival Processing Manual.
