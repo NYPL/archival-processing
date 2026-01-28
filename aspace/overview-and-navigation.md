@@ -81,7 +81,7 @@ Advanced search supports searching and filtering by creator, identifier, keyword
 ![Advanced Search Type Menu](../aspace/Images/11-Advanced-search-type-menu.png)
 These advanced search fields can be used in any combination, but the search needs to be connected with Boolean operators. AND, OR, and NOT are the available options. A simple example is illustrated below.
 
-![Advanced Search Example](../aspace/Images12-Advanced-Search-example.png)
+![Advanced Search Example](../aspace/Images/12-Advanced-Search-example.png)
 
 ### Gear Icon Menu
 The gear icon menu, which is located next to the active repository name, includes the [Manage Top Containers]() option, as well as another method to access _Background Jobs._ The other menu options are not used in our staff interface.
