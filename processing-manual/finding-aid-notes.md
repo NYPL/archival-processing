@@ -78,7 +78,7 @@ If there is additional interesting information that you encountered during proce
 ### Processing Information
 All finding aids must include a _Processing Information_ note, which states the name of the archivist that processed the collection, and the year(s) it was processed. 
 
-Processing notes should also be used to record actions by the archivist, especially in the case of a large-scale re-processing project or when additions have been incorporated into an existing finding aid. The [revision statement](https://nypl.github.io/archival-processing/processing-manual/front-matter/#revision-statements) should indicate the impacted boxes, the name of the archivist who processed the additions, and the year this occured. The processing note can go more in depth about large-scale changes made by the archivist. 
+Processing notes should also be used to record actions by the archivist, especially in the case of a large-scale re-processing project or when additions have been incorporated into an existing finding aid. The [revision statement](https://nypl.github.io/archival-processing/processing-manual/front-matter/#revision-statements) should indicate the impacted boxes, the name of the archivist who processed the additions, and the year this occurred. The processing note can go more in depth about large-scale changes made by the archivist. 
 
 All processing notes must be formatted like this with EAD tags: Processed by \<name>Archivist Name\</name> in \<date>Year\</date>.[DACS 7.1.8](https://saa-ts-dacs.github.io/dacs/06_part_I/08_chapter_07/01_notes.html#processing-information) contains more information on processing notes.  
 
