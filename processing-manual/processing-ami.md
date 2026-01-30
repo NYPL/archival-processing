@@ -237,7 +237,9 @@ At NYPL, a single AMI item is called a Media Original. AMI is stored by format i
 
 The logistics of housing media originals and shipping it offsite for digitization and longterm storage is managed by Archival Processing Management in consultation with Collection Management and Audio and Moving Image Preservation. 
 
-Below is information on how to properly store audio and moving image items in media originals boxes. A general guiding principle is that the AMI ID numbers are visible when looking into the box. 
+Below is information on how to properly store audio and moving image items in media originals boxes. Alway make sure that the AMI ID numbers are visible when looking into the box. 
+
+AMI Preservation had created robust AMI [housing guidelines](https://nypl.github.io/ami-preservation/pages/resources/workflow-resources/ami-housing-guidelines.html) to support their digitization workflows. Follow these guidelines when re-housing AMI for permanent storage, and check with your supervisor before finalizing any re-housing decisions.
 
 ### Audio Reels 
 Stand on edge in record cartons 
