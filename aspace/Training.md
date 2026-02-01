@@ -3,7 +3,7 @@ title: Training
 permalink: /aspace/training/
 layout: default
 parent: ArchivesSpace
-nav_order: 2
+nav_order: 4
 has_children: false
 ---
 # ArchivesSpace Training

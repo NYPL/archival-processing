@@ -3,7 +3,7 @@ title: ArchivesSpace at NYPL
 permalink: /aspace/archivesspace-at-nypl/
 layout: default
 parent: ArchivesSpace
-nav_order: 1
+nav_order: 3
 has_children: false
 ---
 # ArchivesSpace at NYPL
