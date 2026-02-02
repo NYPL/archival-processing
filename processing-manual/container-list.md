@@ -16,6 +16,6 @@ If your container list was imported, it is likely that some unnecessary repetiti
 
 If your collection contains dates that are not consecutive, such as 1981, 1999-2010, you will need to enter the dates in two separate date forms in ASpace as illustrated below. The [ASpace User Guide](/archival-processing/aspace) contains detailed information about how to properly record dates in your container list. 
 
-![ASpace Date Field](../images/84-ASpace-dates.png)
+![ASpace Date Field](../processing-manual/images/84-ASpace-dates.png)
 
 
