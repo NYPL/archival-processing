@@ -15,7 +15,7 @@ Surveying the Born-Digital content concurrently with the paper and audio and mov
 
 There are many potential ways to organize your notes during your survey, and since these notes are for your own reference, there is no one correct way to do this. Some common methods include a spreadsheet with a row for each container, or a text document with bullet point notes. You can also export a csv file for the acquisition or collection objects list from SPEC, which is helpful when working with very large collections. The export csv button is located on the bottom right of the objects list in SPEC. 
 
-![SPEC EXPORT BUTTOM IMAGE](../Images/02-SPEC_export_button.png)
+![SPEC EXPORT BUTTOM IMAGE](../processing-manual/images/02-SPEC_export_button.png)
 
 After you click on the button, a csv file will automatically be generated and saved to your desktop as object_search_export_[SPEC username]_date.
 
