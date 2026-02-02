@@ -103,7 +103,7 @@ If the agent is from a source other than the Library of Congress, or if the Libr
 
 ![LC Record not RDA](../processing-manual/images/74-non-RDA.png)
 
-![Non RDA ASpace](..'processing-manual/images/75-not-RDA-ASpace.png)
+![Non RDA ASpace](../processing-manual/images/75-not-RDA-ASpace.png)
 
 ### Family Agent Records
 When creating new _family_ agents, never create a local agent entry. Family names should always be sourced from either the LCNAF or LCSH, depending on its application. Family names that are applied as _Creator/Contributor_ or _Main Entry_ should come from LCNAF and include the appropriate form and identifier; names that are applied as _subjects_ should come from LCSH.
