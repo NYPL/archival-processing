@@ -34,13 +34,13 @@ _Tube_, _volume_, and _oversized folder_ _Top Container Types_ will never have a
 
 A date that is also the folder title must be entered into the _dates_ field. The folder title fields (i.e. _c01, c02,_ etc) should be left blank. Consecutive dates should be entered as a range, while dates with large gaps should be separated with a comma. If you cannot determine a date, leave the field blank or use an estimated date with _circa_ as the prefix.
 
-![Processing Spreadsheet Dates](/images/05-Processing-spreadsheet-dates.png)
+![Processing Spreadsheet Dates](../processing-manual/images/05-Processing-spreadsheet-dates.png)
 
 **Title Tags**
 
 \<title> tags can be included in the spreadsheet when applicable.
 
-![title tags in spreadsheets](/images/06-title-tags.png)
+![title tags in spreadsheets](../processing-manual/images/06-title-tags.png)
 
 **Container Ranges**
 
@@ -50,13 +50,13 @@ The ASpace importer will recognize a contiguous container range entered into the
 
 _Subcontainer indicators_ for the folders located inside boxes will typically be entered as a range. See the section of this documentation on [Archival Description ](/Archival_Description.md)for detailed information about working with and revising top containers in ASpace. See the example below for how to properly enter box ranges.
 
-![folder ranges](Images/07-folder-ranges.png)
+![folder ranges](../processing-manual/images/07-folder-ranges.png)
 
 **Call Number Field**
 
 If the materials in your collection include a numbering or labeling system imposed by the creator or donor which may be helpful to the researcher, this unique identifier should be recorded in the _call number_ field (EAD: \<unitid type="local\_call">) of each applicable component. 
 
-For more insight on data entry into ArchivesSpace, refer to the section of this manual on [Archival Description](/Archival_Description.md).
+For more insight on data entry into ArchivesSpace, refer to the section of this manual on [Archival Description](../processing-manual/archival-description.md).
 
 
 
