@@ -14,6 +14,9 @@ After creating the front-matter description for the collection, add controlled a
 ## Table of Contents
 {: .no_toc .text-delta }
 
+- TOC
+{:toc}
+
 ## Agent Links
 The _Agent Links_ form allows for name terms to be associated with collections. Name sub-forms can be added by clicking the _Add Agent Link_ button, or the + bar at the bottom of the form (button 1). Each sub-form should contain exactly one name link.
 
