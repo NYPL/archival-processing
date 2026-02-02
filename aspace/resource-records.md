@@ -7,17 +7,28 @@ nav_order: 7
 has_children: false
 ---
 # Resource Records
+{: .no_toc }
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+This section provides an overview of Resource Records in ArchivesSpace, details all the fields of the record, and explains how to fill them out.
+
+- TOC
+{:toc}
+
+## What is an ASpace Resource Record?
 In ArchicesSpace a resource record is ArchiveSpace’s name for an archival collection record. Resource records for new acquisitions are created by Archival Processing management after the aquisition is accessioned or a backlog collection is identified for processing. Resource records for legacy collections that are published _only_ on the [Archives Portal](https://archives.nypl.org/) are created by importing the EAD XML file into ArchivesSpace. 
 
 If you are working on revisions or additions to a legacy collection that is not in ArchivesSpace, you can request an import through the [Archival Processing Description Remediation Form 🔒](https://sites.google.com/nypl.org/specialcollections/special-collections-processing/archival-processing/description-remediation)
 
 ![resource record](../aspace/Images/32-resource-record.png)
 
-Collections are created by selecting _Resource_ under the _Create_ menu at the top of the screen. Collections will generally be created ahead of time as part of accessioning or import from the Archives Portal.
+Resource records are created by selecting _Resource_ under the _Create_ menu at the top of the screen. A Collection's resource record is almost always created immediately after a new acquisition is accessioned or imported from the Archives Portal when legacy description needs to be revised.
 
-A collection’s description can be saved by pressing the _Save_ button (button 1). Note that if every field marked by a red asterisk is not filled out, the collection cannot be saved.
+A resource can be saved by pressing the _Save_ button (button 1). Note that if every field marked by a red asterisk is not filled out, the collection cannot be saved.
 
-A collection can be exported as EAD, PDF, or MARCXML by selecting _Export_ (button 2). More information on exporting finding aids can be found under the [Exports](h) section.
+Each resource can be exported as EAD, PDF, or MARCXML by selecting _Export_ (button 2). More information on exporting finding aids can be found under the [Exports]() section.
 
 The Extent Calculator and Date Calculator are available under the _More_ menu (button 3). More information on these functions is available under [Wrapping Up Resources]().
 
@@ -56,5 +67,26 @@ Use [EAD](https://www.loc.gov/ead/tglib/element_index.html) XML tags (e.g. \<per
 For more information on available tags, please see the [Inline XML Markup]() chart. 
 
 **ArchivesSpace will not provide automatic punctuation on any notes.** Any trailing punctuation will need to be provided in the forms. Automatic trailing punctuation is _only_ provided for [Subject Links]() and [Agent Links]() in the MARCXML.
+
+## Adding Identifiers
+
+![identifer](../aspace/Images/35-identifers.png)
+
+Provide any non-MSS Identifier using the _Identifier_ form.
+
+Additional identifiers can be added via the _Add Identifier_ button (button 1) or the _+_ bar (button 5).
+
+Provide the type of identifier using the _Identifier Type_ drop-down menu (field 2). Use the following options:
+
+### Call Number 
+The call number field is for providing a call number that uniquely identifies the collection. For example, a Dance classmark such as \*MGZEB 16-241 would be provided as a _Call Number_. Do not provide Manuscripts-style call numbers (e.g. MssCol 1234) as _Call Numbers_. **Note that non-MSS collections will not export item records in MARC without a Call Number.
+
+### bnumber 
+The bnumber field is for providing an identifier from the catalog (e.g. b12345678). Prefix the number with a _b_, and use the **eight-digit form of the number**. Do not provide this identifier if the collection is not in the NYPL Catalog. bnumbers are generated when a collection is cataloged.
+
+
+
+
+
 
 
