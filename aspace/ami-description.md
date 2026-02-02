@@ -3,7 +3,7 @@ title: AMI Description in ArchivesSpace
 permalink: /aspace/ami-description
 layout: default
 parent: ArchivesSpace
-nav_order: 10
+nav_order: 11
 has_children: false
 ---
 # AMI Description in ArchivesSpace
