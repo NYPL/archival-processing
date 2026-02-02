@@ -18,7 +18,7 @@ Each container in a collection must have a _Top Container Type_ (box, tube, volu
 
 There are four types of containers: _box_, _tube_, _oversized folder_, and _volume_. Some legacy collections may also include containers called _reel_ and _folder_. For more information on working with legacy collections, see the section of this manual on [Additions and Legacy Finding Aids](/Additions-to-Lecacy-Finding-Aids.md). Electronic records and audio and moving image items are imported via an exported report and entered as _Identifiers_. However, electronic records (er), may still be entered as a container type in the spreadsheet. 
 
-![Processing Spreadsheet Image](Images/04-Processing_spreadsheet.png)
+![Processing Spreadsheet Image](../processing-manual/images/04-Processing_spreadsheet.png)
 
 **Numbering Containers**
 
