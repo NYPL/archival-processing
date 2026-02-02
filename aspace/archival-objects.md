@@ -76,7 +76,7 @@ If a record needs to be deleted, press _Delete_ to delete the record. Note that 
 ### More
 The date calculator and extent calculator are available for components under the _More_ menu (button 3). These function the same as the calculators for Resources. Refer to [Using the Extent Calculator]() and [Using the Date Calculator]() for more information.
 
-## ## Processing Spreadsheet
+## Processing Spreadsheet
 Larger collections may be easier to process using a spreadsheet rather than in the ArchivesSpace interface or RDE. A spreadsheet [is available 🔒](https://docs.google.com/spreadsheets/d/1TEPAgzKzb5C8IWVkRfHy2--Wj4sMdM6XitKM4ZZiesg/edit#gid=0), which supports basic data entry for components. Spreadsheets should be used for creating component lists only. Collection-level metadata, and any further description of components (e.g. restrictions) should be added following the import of the spreadsheet into ArchivesSpace.
 
 See the section of the Archival Processing Manual on [Entering Data Into The ArchivesSpace Processing Spreadsheet](https://nypl.github.io/archival-processing/processing-manual/processing-collections/entering-data-into-the-archivesspace-processing-spreadsheet/) for additional information on how to fill out each field.
