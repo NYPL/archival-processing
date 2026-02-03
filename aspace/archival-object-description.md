@@ -1,6 +1,6 @@
 ---
 title: Archival Object Description
-permalink: /aspace/archival=object-description
+permalink: /aspace/archival-object-description
 layout: default
 parent: ArchivesSpace
 nav_order: 12
