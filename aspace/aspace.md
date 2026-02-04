@@ -1,5 +1,5 @@
 ---
-title: ArchivesSpace User Guide
+title: ArchivesSpace
 permalink: /aspace/
 layout: default
 nav_order: 2
