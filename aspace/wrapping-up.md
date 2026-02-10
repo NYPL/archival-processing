@@ -34,9 +34,10 @@ The mappings between ArchivesSpace to MARC, EAD, and DACS can be found [here �
 Each XML tag links to its definition in the [EAD 2002 tag library](https://www.loc.gov/ead/tglib/element_index.html), and some descriptive text links to the [Archival Processing Manual](../processing-manual/archival-processing-at-nypl.md). 
 
 ## Inline XML Markup
+
 | **Tag** | **Definition** |
 | ------- | -------------- |
-|[language](https://www.loc.gov/ead/tglib/elements/language.html)  | Use for [Language of Material](https://nypl.github.io/archival-processing/processing-manual/archival-description/finding-aid-notes/#language-of-material) notes. Wrap language names in this tag (e.g. Materials in \<language>English\</language> and \<language>French\</language>). |
+| [language](https://www.loc.gov/ead/tglib/elements/language.html) | Use for [Language of Material](https://nypl.github.io/archival-processing/processing-manual/archival-description/finding-aid-notes/#language-of-material) notes. Wrap language names in this tag (e.g. Materials in \<language>English\</language> and \<language>French\</language>). |
 | [blockquote](https://www.loc.gov/ead/tglib/elements/blockquote.html) | Do Not Use. |
 | [date](https://www.loc.gov/ead/tglib/elements/date.html) | Use for [Processing Information](https://nypl.github.io/archival-processing/processing-manual/archival-description/finding-aid-notes/#processing-information) notes. Wrap the year that the collection was originally processed in with this tag (e.g. Processed by \<name>Anne Archivist\</name> in \<date>2016\</date>). |
 | [function](https://www.loc.gov/ead/tglib/elements/function.html) | Do Not Use. |
@@ -47,11 +48,10 @@ Each XML tag links to its definition in the [EAD 2002 tag library](https://www.l
 | [persname](https://www.loc.gov/ead/tglib/elements/persname.html) | Do not use. Provide collection-level names as linked [agents](https://nypl.github.io/archival-processing/processing-manual/archival-description/controlled-access-terms/#agents) |
 | [famname](https://www.loc.gov/ead/tglib/elements/famname.html) | Do not use. Provide collection-level names as linked [agents](https://nypl.github.io/archival-processing/processing-manual/archival-description/controlled-access-terms/#agents) |
 | [name](https://www.loc.gov/ead/tglib/elements/name.html) | Use when providing your name in the [Processing Information](https://nypl.github.io/archival-processing/processing-manual/archival-description/finding-aid-notes/#processing-information) fields. |
-|[geogname](https://www.loc.gov/ead/tglib/elements/geogname.html)  | Do not use; provide collection-level places as linked [geographic](https://nypl.github.io/archival-processing/processing-manual/archival-description/controlled-access-terms/#subjects) subjects. |
+| [geogname](https://www.loc.gov/ead/tglib/elements/geogname.html) | Do not use; provide collection-level places as linked [geographic](https://nypl.github.io/archival-processing/processing-manual/archival-description/controlled-access-terms/#subjects) subjects. |
 | [genreform](https://www.loc.gov/ead/tglib/elements/genreform.html) | Do not use. Provide collection-level [genres](https://nypl.github.io/archival-processing/processing-manual/archival-description/controlled-access-terms/#subjects) as linked [subjects](https://nypl.github.io/archival-processing/processing-manual/archival-description/controlled-access-terms/#subjects) |
-[title](https://www.loc.gov/ead/tglib/elements/title.html) | Use to provide titles within notes. Wrap the text of the title in \<title> tags (e.g. Shelley’s \<title>Frankenstein\</title>”). The \<title> tag will provide the necessary italicization of the text. |
-| [ref](https://www.loc.gov/ead/tglib/elements/ref.html) | Do Not Use. |
-| [extref](https://www.loc.gov/ead/tglib/elements/extref.html) | Do Not Use. |
+| [title](https://www.loc.gov/ead/tglib/elements/title.html) | Use to provide titles within notes. Wrap the text of the title in \<title> tags (e.g. Shelley’s \<title>Frankenstein\</title>”). The <title> tag will provide the necessary italicization of the text. | | ref | Do Not Use. | 
+| extref | Do Not Use. |
 
 # Exports
 ArchivesSpace allows for the export of MARCXML, EAD, PDF, and a CSV of a resource’s containers.
