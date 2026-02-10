@@ -50,7 +50,8 @@ Each XML tag links to its definition in the [EAD 2002 tag library](https://www.l
 | [name](https://www.loc.gov/ead/tglib/elements/name.html) | Use when providing your name in the [Processing Information](https://nypl.github.io/archival-processing/processing-manual/archival-description/finding-aid-notes/#processing-information) fields. |
 | [geogname](https://www.loc.gov/ead/tglib/elements/geogname.html) | Do not use; provide collection-level places as linked [geographic](https://nypl.github.io/archival-processing/processing-manual/archival-description/controlled-access-terms/#subjects) subjects. |
 | [genreform](https://www.loc.gov/ead/tglib/elements/genreform.html) | Do not use. Provide collection-level [genres](https://nypl.github.io/archival-processing/processing-manual/archival-description/controlled-access-terms/#subjects) as linked [subjects](https://nypl.github.io/archival-processing/processing-manual/archival-description/controlled-access-terms/#subjects) |
-| [title](https://www.loc.gov/ead/tglib/elements/title.html) | Use to provide titles within notes. Wrap the text of the title in \<title> tags (e.g. Shelley’s \<title>Frankenstein\</title>”). The <title> tag will provide the necessary italicization of the text. | | ref | Do Not Use. | 
+| [title](https://www.loc.gov/ead/tglib/elements/title.html) | Use to provide titles within notes. Wrap the text of the title in \<title> tags (e.g. Shelley’s \<title>Frankenstein\</title>”). The <title> tag will provide the necessary italicization of the text. | 
+| ref | Do Not Use. | 
 | extref | Do Not Use. |
 
 # Exports
