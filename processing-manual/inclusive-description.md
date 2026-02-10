@@ -181,7 +181,7 @@ As recommended in the Chicago Manual of style, the numbers zero through one hund
 Use a single space after periods, commas, and colons. There is no instance where an additional space will ever be needed in description or in ArchivesSpace. 
 
 ## Titles (Italics and Quotation Marks)
-Following the Chicago Manual of Style, italicize (using <title> tags in ArchivesSpace) the titles of major works including: books, newspapers, magazines, albums, operas, plays, films, television series, book-length poems (such as Homer's _Odyssey_), and works of art (paintings, sculptures, etc.). Shorter works such as book chapters, articles, songs, television episodes, and shorter poems should be put in quotation marks.
+Following the Chicago Manual of Style, italicize (using "title" tags in ArchivesSpace) the titles of major works including: books, newspapers, magazines, albums, operas, plays, films, television series, book-length poems (such as Homer's _Odyssey_), and works of art (paintings, sculptures, etc.). Shorter works such as book chapters, articles, songs, television episodes, and shorter poems should be put in quotation marks.
 
 [^1]: Caswell and Cifor remind us that “In making descriptive choices, the archivist should ask, what language would the creator use to describe the records.” Michelle Caswell and Marika Cifor, “From Human Rights to Feminist Ethics: Radical Empathy in the Archives,” _Archivaria_, no. 81 (May 6, 2016): 38, <https://archivaria.ca/index.php/archivaria/article/view/13557>.
 
