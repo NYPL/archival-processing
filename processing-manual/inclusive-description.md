@@ -181,8 +181,25 @@ As recommended in the Chicago Manual of style, the numbers zero through one hund
 Use a single space after periods, commas, and colons. There is no instance where an additional space will ever be needed in description or in ArchivesSpace. 
 
 ## Titles (Italics and Quotation Marks)
-Following the Chicago Manual of Style, italicize (using "title" tags in ArchivesSpace) the titles of major works including: books, newspapers, magazines, albums, operas, plays, films, television series, book-length poems (such as Homer's _Odyssey_), and works of art (paintings, sculptures, etc.). Shorter works such as book chapters, articles, songs, television episodes, and shorter poems should be put in quotation marks.
+Following the Chicago Manual of Style [8.164](https://www.chicagomanualofstyle.org/book/ed18/part2/ch08/psec164.html), italicize (using "title" tags in ArchivesSpace) the titles of works including: 
+- books
+- periodicals (newspapers, magazines, journals)
+- albums
+- operas and long musical compositions
+- plays
+- films
+- television series, radio programs, or podcasts
+- book-length poems (such as Homer's _Odyssey_)
+- works of art (paintings, sculptures, etc.)
 
+Shorter works should be put in quotation marks, including:
+- book chapters
+- articles
+- songs
+- individual episodes of television, radio programs, or podcasts
+- all other poems
+
+---
 [^1]: Caswell and Cifor remind us that “In making descriptive choices, the archivist should ask, what language would the creator use to describe the records.” Michelle Caswell and Marika Cifor, “From Human Rights to Feminist Ethics: Radical Empathy in the Archives,” _Archivaria_, no. 81 (May 6, 2016): 38, <https://archivaria.ca/index.php/archivaria/article/view/13557>.
 
 [^2]: Elvia Arroyo-Ramírez reminds us that “keeping the linguistic integrity of these file and folder names shouldn’t be a ‘compromise on an ideal’ — it is the very practical responsibility of processing archivists and other digital curation laborers to preserve as much of the original content and context of the collections we’ve been entrusted to preserve and provide access to. Diacritic glyphs are an inherent part of the content that distinguishes certain words from others; ridding the file and folder names of them will misrepresent the collections they are meant to describe and misinform the users who are researching them. Elvia Arroyo-Ramírez, “Invisible Defaults and Perceived Limitations: Processing the Juan Gelman Files,” _On Archivy_, October 31, 2016, <https://medium.com/on-archivy/invisible-defaults-and-perceived-limitations-processing-the-juan-gelman-files-4187fdd36759>.
