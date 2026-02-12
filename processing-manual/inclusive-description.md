@@ -164,6 +164,10 @@ Although '70s is grammatically correct, it is not DACS compliant. Instead use 19
     
         - The archivists’ offices are located on the second floor. 
 
+## Court Cases
+Following the Chicago Manual of Style [8.83](https://www.chicagomanualofstyle.org/book/ed18/part2/ch08/psec083.html), all legal case names should be italicized (using "title" tags in ArchivesSpace).
+- _Roe v. Wade_
+
 ## Hyphens
 To simplify data entry, use double hyphens (--) to indicate hierarchies in folder titles, much like Library of Congress Subject and Authority Headings:  
  
@@ -175,29 +179,38 @@ The single hyphen is used for dates or in the case of hyphenated words.
 - Bi-weekly
 
 ## Numbers
-As recommended in the Chicago Manual of style, the numbers zero through one hundred should be written out. Starting at number 101, it is acceptable to use numbers in lieu of spelling out the word. 
+As recommended in the Chicago Manual of Style [9.2] (https://www.chicagomanualofstyle.org/book/ed18/part2/ch09/psec002.html), the numbers zero through one hundred should be written out. Starting at number 101, it is acceptable to use numbers in lieu of spelling out the word. 
 
 ## Spaces
 Use a single space after periods, commas, and colons. There is no instance where an additional space will ever be needed in description or in ArchivesSpace. 
 
-## Titles (Italics and Quotation Marks)
+## Titles and offices
+Following the Chicago Manual of Style [8.20](https://www.chicagomanualofstyle.org/book/ed18/part2/ch08/psec020.html), political, military, religious, and professional titles should be capitalized when used as part of a person's name, but lowercase otherwise.
+- This collection includes material relating to President Lincoln.
+- This collection includes material relating to the sixteenth president of the United States.
+
+## Titles of works
 Following the Chicago Manual of Style [8.164](https://www.chicagomanualofstyle.org/book/ed18/part2/ch08/psec164.html), italicize (using "title" tags in ArchivesSpace) the titles of works including: 
-- books
-- periodicals (newspapers, magazines, journals)
 - albums
-- operas and long musical compositions
-- plays
-- films
-- television series, radio programs, or podcasts
+- art works (paintings, sculptures, performance art, etc.)
+- books
 - book-length poems (such as Homer's _Odyssey_)
-- works of art (paintings, sculptures, etc.)
+- choreographic works
+- films
+- museum exhibitions
+- operas and long musical compositions
+- periodicals (newspapers, magazines, journals)
+- plays
+- television series, radio programs, or podcasts
+- video games
 
 Shorter works should be put in quotation marks, including:
-- book chapters
 - articles
-- songs
+- book chapters
 - individual episodes of television, radio programs, or podcasts
-- all other poems
+- poems (non book-length)
+- songs
+
 
 ---
 [^1]: Caswell and Cifor remind us that “In making descriptive choices, the archivist should ask, what language would the creator use to describe the records.” Michelle Caswell and Marika Cifor, “From Human Rights to Feminist Ethics: Radical Empathy in the Archives,” _Archivaria_, no. 81 (May 6, 2016): 38, <https://archivaria.ca/index.php/archivaria/article/view/13557>.
