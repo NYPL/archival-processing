@@ -96,7 +96,7 @@ Never leave the date with an open dash, such as “1920 - “, even when accrual
 
 **Bulk Dates**
 
-There is a field for bulk dates in ASpace. The EAD output will correctly format collection, series, and subseries level date expressions with the inclusive dates, followed by the bulk dates like this: 1952-2019 \[bulk 1982-2012]. If you choose to refer to the bulk dates in your narrative description in the _scope and content_ note, [DACS 2.4.10](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/04_date.html#predominant-or-bulk-dates) states that bulk dates must always be preceded by the _inclusive dates_. You should never state the _bulk dates_ without first indicating the _inclusive dates_. 
+There is a field for bulk dates in ASpace. The EAD output will correctly format collection, series, and subseries level date expressions with the inclusive dates, followed by the bulk dates like this: 1952-2019 \[bulk 1982-2012]. If you choose to refer to the bulk dates in your narrative description in the _scope and content_ note, [DACS 2.4.10](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/04_date.html#predominant-or-bulk-dates) states that bulk dates must always be preceded by the _inclusive dates_. You should never state the _bulk dates_ without first indicating the _inclusive dates_.
 
 **Significant Break in the Records**
 
