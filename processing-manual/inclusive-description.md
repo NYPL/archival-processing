@@ -193,7 +193,7 @@ Following the Chicago Manual of Style [8.20](https://www.chicagomanualofstyle.or
 - This collection includes material relating to the sixteenth president of the United States.
 
 ## Titles of works
-Following the Chicago Manual of Style [8.164](https://www.chicagomanualofstyle.org/book/ed18/part2/ch08/psec164.html), italicize (using "title" tags in ArchivesSpace) the titles of works including: 
+Following the Chicago Manual of Style [8.164](https://www.chicagomanualofstyle.org/book/ed18/part2/ch08/psec164.html), italicize (using "title" tags in ArchivesSpace) the titles of standalone works including: 
 - albums
 - art works (paintings, sculptures, performance art, etc.)
 - books
@@ -213,6 +213,7 @@ Shorter works should be put in quotation marks, including:
 - individual episodes of television, radio programs, or podcasts
 - poems (non book-length)
 - songs
+- short stories
 
 ## Using Common Language
 In addition to using conscious language when writing a description, it is also important to consider the ease of which the description can be read. Omit writing that uses archival jargon or complicated phrases that may be difficult for users to decipher, and instead use common language whenever possible. For example, instead of writing about “the document’s inscription _on the verso_”, write “the document’s inscription _on the backside_.”
