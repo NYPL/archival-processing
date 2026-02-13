@@ -70,7 +70,7 @@ Although '70s is grammatically correct, it is not DACS compliant. Instead use 19
 Be cognizant in avoiding the passive voice in your archival description. A verb is in the passive voice when the subject of the sentence is acted on by the verb. For example, a passive voice sentence reads, “The mouse was caught by the cat.” In this example, the verb (or action) and the object is emphasized, rather than the subject. To turn this sentence into an active voice, the subject acts upon the verb and the object: “The cat caught the mouse.” [The National Archives](https://www.archives.gov/open/plain-writing/tips/passive-voice.html) has a comprehensive guide to writing in plain language which includes a section on how to avoid using passive voice.
 
 ## Court Cases
-Following the Chicago Manual of Style [8.83](https://www.chicagomanualofstyle.org/book/ed18/part2/ch08/psec083.html), all legal case names should be italicized (using "title" tags in ArchivesSpace).
+Following the Chicago Manual of Style [8.83](https://www.chicagomanualofstyle.org/book/ed18/part2/ch08/psec083.html), all legal case names should be italicized (using \<title> tags in ArchivesSpace).
 - _Roe v. Wade_
 
 ## Dates
@@ -78,9 +78,9 @@ Each component in a container list must have a date expression, instead of _unda
 
 A year is often sufficient, but months may be included to signify a break in the material between folders. If months are included they should be written in the following format as recommended in [DACS 2.4.15](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/04_date.html#exact-single-dates):
 
-1970 February-June 
-1970 July-December
-1971 February
+- 1970 February-June 
+- 1970 July-December
+- 1971 February
 
 **Inclusive Dates**
 
@@ -144,7 +144,7 @@ Folders are numbered consecutively per box, not consecutively throughout the ent
 Use title case for folder titles. Capitalize all words in a title except articles (a, an, the), prepositions under five letters (in, of, to), and coordinating conjunctions (and, but). 
 
 **Titles of Published Works**
-Underline the titles of published works on the physical folder, and italicize in ASpace using \<title> tags. For works, such as papers, essays, or journal article titles, surround the title in quotation marks: “Title Name Here.”
+Underline the titles of published works on the physical folder, and italicize in ASpace using \<title> tags. For works such as papers, essays, or journal article titles, surround the title in quotation marks: “Title Name Here.” See the [Titles of Works](https://nypl.github.io/archival-processing/processing-manual/inclusive-description/#titles-of-works) section below for more detail.
 
 **Punctuation and Folder Titles**
 
@@ -193,7 +193,7 @@ Following the Chicago Manual of Style [8.20](https://www.chicagomanualofstyle.or
 - This collection includes material relating to the sixteenth president of the United States.
 
 ## Titles of works
-Following the Chicago Manual of Style [8.164](https://www.chicagomanualofstyle.org/book/ed18/part2/ch08/psec164.html), italicize (using "title" tags in ArchivesSpace) the titles of standalone works including: 
+Following the Chicago Manual of Style [8.164](https://www.chicagomanualofstyle.org/book/ed18/part2/ch08/psec164.html), italicize (using \<title> tags in ArchivesSpace) the titles of standalone works including: 
 - albums
 - art works (paintings, sculptures, performance art, etc.)
 - books
