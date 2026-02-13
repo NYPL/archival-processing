@@ -35,7 +35,7 @@ Some common abbreviations that should always be written out include:
 Use St., Jr., and Ft. and similar in city and person names (St. Louis, Martin Luther King Jr.).
 
 ## Academic degrees
-The Chicago Manual of Style [8.30](https://www.chicagomanualofstyle.org/book/ed18/part2/ch08/psec030.html)recommends that names of degrees, fellowships, and the like are lowercased when written out in normal prose. Abbreviations for degrees such as BA, MA, or MFA should be written with no periods. (see CMOS [10.23](https://www.chicagomanualofstyle.org/book/ed18/part2/ch10/psec023.html)). 
+The Chicago Manual of Style [8.30](https://www.chicagomanualofstyle.org/book/ed18/part2/ch08/psec030.html) recommends that names of degrees, fellowships, and the like are lowercased when written out in normal prose. Abbreviations for degrees such as BA, MA, or MFA should be written with no periods. (see CMOS [10.23](https://www.chicagomanualofstyle.org/book/ed18/part2/ch10/psec023.html)). 
 
 - She received a master's degree in library and information science.
 - She received a PhD from New York University.
