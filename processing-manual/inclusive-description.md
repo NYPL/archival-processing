@@ -69,6 +69,9 @@ Although '70s is grammatically correct, it is not DACS compliant. Instead use 19
 ## Avoiding Passive Voice
 Be cognizant in avoiding the passive voice in your archival description. A verb is in the passive voice when the subject of the sentence is acted on by the verb. For example, a passive voice sentence reads, “The mouse was caught by the cat.” In this example, the verb (or action) and the object is emphasized, rather than the subject. To turn this sentence into an active voice, the subject acts upon the verb and the object: “The cat caught the mouse.” [The National Archives](https://www.archives.gov/open/plain-writing/tips/passive-voice.html) has a comprehensive guide to writing in plain language which includes a section on how to avoid using passive voice.
 
+## Content Warnings
+Use scope and content notes if you wish to indicate the presence of harmful and offensive material in a collection. See the [Content Warnings documentation 🔒](https://github.com/NYPL/archival-processing-admin/blob/main/description/content-warnings.md) for examples.
+
 ## Court Cases
 Following the Chicago Manual of Style [8.83](https://www.chicagomanualofstyle.org/book/ed18/part2/ch08/psec083.html), all legal case names should be italicized (using \<title> tags in ArchivesSpace).
 - _Roe v. Wade_
