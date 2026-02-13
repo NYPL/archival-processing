@@ -173,7 +173,7 @@ Semicolons can be used when listing out the names of _series_, _subseries_, or t
 Example: 
 “Series I consists of audio and video recordings that commence with Reed's 1960s acoustic home recordings, and trace the trajectory of his career through Demos and Rehearsal recordings; Studio recordings; Live recordings; Television and Film appearances; Radio programs; Recorded Conversations and Interviews; and recordings of Other Artists.”
 
-## Series and Subseries Formating
+## Series and Subseries Formatting
 When writing out _series_ names, use Roman numerals, followed by a colon.
 
 ![Series Formatting](/images/91-series-formatting.png)
@@ -212,8 +212,8 @@ Shorter works should be put in quotation marks, including:
 - book chapters
 - individual episodes of television, radio programs, or podcasts
 - poems (non book-length)
+- short stories 
 - songs
-- short stories
 
 ## Using Common Language
 In addition to using conscious language when writing a description, it is also important to consider the ease of which the description can be read. Omit writing that uses archival jargon or complicated phrases that may be difficult for users to decipher, and instead use common language whenever possible. For example, instead of writing about “the document’s inscription _on the verso_”, write “the document’s inscription _on the backside_.”
