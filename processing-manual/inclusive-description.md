@@ -34,6 +34,12 @@ Some common abbreviations that should always be written out include:
 
 Use St., Jr., and Ft. and similar in city and person names (St. Louis, Martin Luther King Jr.).
 
+## Academic degrees
+The Chicago Manual of Style [8.30](https://www.chicagomanualofstyle.org/book/ed18/part2/ch08/psec030.html)recommends that names of degrees, fellowships, and the like are lowercased when written out in normal prose. Abbreviations for degrees such as BA, MA, or MFA should be written with no periods. (see CMOS [10.23](https://www.chicagomanualofstyle.org/book/ed18/part2/ch10/psec023.html)). 
+
+- She received a master's degree in library and information science.
+- She received a PhD from New York University.
+
 ## Acronyms
 Do not use acronyms for an organization or company without fully describing them the first time they appear in a text. For example, when writing about The New York Public Library (NYPL) for the first time in a scope and content note, write out its full name with its acronym following it in parentheses. Then in subsequent paragraphs, you may use NYPL to refer to the organization.
 
@@ -50,17 +56,14 @@ Although '70s is grammatically correct, it is not DACS compliant. Instead use 19
 
     - Examples: 
         - The boss’ office is on the third floor. 
-
         - Jess’ bicycle is locked up outside.
 
 - **Plural nouns**  
 
     - Plural nouns that do not end in "s" get an apostrophe:
-  
         - The children’s school day begins at 9AM.
 
     - Plural nouns that end in s get only an apostrophe added after the word:
-    
         - The archivists’ offices are located on the second floor. 
 
 ## Avoiding Passive Voice
@@ -162,7 +165,7 @@ The single hyphen is used for dates or in the case of hyphenated words.
 - Bi-weekly
 
 ## Numbers
-As recommended in the Chicago Manual of Style [9.2] (https://www.chicagomanualofstyle.org/book/ed18/part2/ch09/psec002.html), the numbers zero through one hundred should be written out. Starting at number 101, it is acceptable to use numbers in lieu of spelling out the word. 
+As recommended in the Chicago Manual of Style [9.2](https://www.chicagomanualofstyle.org/book/ed18/part2/ch09/psec002.html), the numbers zero through one hundred should be written out. Starting at number 101, it is acceptable to use numbers in lieu of spelling out the word. 
 
 ## Semicolons
 Semicolons can be used when listing out the names of _series_, _subseries_, or topical headings in narrative description. This is helpful to make a distinction between headings, especially when an individual heading contains a comma. 
