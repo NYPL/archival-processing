@@ -25,7 +25,7 @@ Below are the fields that you must complete in ASpace, and their equivalent DACS
 | Field Name | DACS Rules | EAD Tag | MARC Field | Notes |
 | -- | -- | -- | -- | -- |
 | Title | [DACS 2.3](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/03_title.html) | [&lt;unittitle&gt;](https://www.loc.gov/ead/tglib/elements/unittitle.html) | [MARC 245](https://www.loc.gov/marc/bibliographic/bd245.html)$a |
-| Mss Identifer | [DACS 2.1](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/01_reference_code.html) | [&lt;unitid type="local_mss"&gt;](https://www.loc.gov/ead/tglib/elements/unittitle.html) | [MARC 852](https://www.loc.gov/marc/holdings/hd852.html)$h |
+| Mss Identifer | [DACS 2.1](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/01_reference_code.html) | [&lt;unitid type="local_mss"&gt;](https://www.loc.gov/ead/tglib/elements/unitid.html) | [MARC 852](https://www.loc.gov/marc/holdings/hd852.html)$h |
 | Level of Description | [DACS Chapter 1](https://saa-ts-dacs.github.io/dacs/06_part_I/02_chapter_01.html) | [&lt;archdesc level="collection"&gt;](https://www.loc.gov/ead/tglib/elements/archdesc.html) | [MARC 351](https://www.loc.gov/marc/bibliographic/bd351.html)$c |
 | Language | [DACS 4.5](https://saa-ts-dacs.github.io/dacs/06_part_I/05_chapter_04/05_languages_and_scripts_of_the_material.html) | [&lt;langmaterial&gt;](https://www.loc.gov/ead/tglib/elements/langmaterial.html) | [MARC 008](https://www.loc.gov/marc/bibliographic/bd008.html) | If the finding describes materials in a language other than English, change this field to “Multiple Languages” and add a _Language of materials_ note. |
 
