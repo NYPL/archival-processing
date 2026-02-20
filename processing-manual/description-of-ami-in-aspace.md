@@ -23,7 +23,7 @@ Descriptions of amounts and types of media should be as accurate and specific as
 
 **Each component should contain only one recording. Even if a recording is split accross mulitple carriers, each AMI object should contain only ONE component.**
 
-**Finding aids should describe each AMI recordings, not the digitized files.**
+**Finding aids should describe each AMI recording, not the digitized files.**
 
 ## Table of Contents
 {: .no_toc .text-delta }
