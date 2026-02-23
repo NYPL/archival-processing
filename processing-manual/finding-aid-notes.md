@@ -109,6 +109,7 @@ The following notes are optional and should only be added when applicable:
 | Existence and Location of copies | [DACS 6.2](https://saa-ts-dacs.github.io/dacs/06_part_I/07_chapter_06/02_existence_and_location_of_copies.html) | [\<altformavail>](https://www.loc.gov/ead/tglib/elements/altformavail.html) | [MARC 530](https://www.loc.gov/marc/bibliographic/bd530.html); [MARC 535](https://www.loc.gov/marc/bibliographic/bd535.html) |
 | Separated Materials | [DACS 6.3](https://saa-ts-dacs.github.io/dacs/06_part_I/07_chapter_06/03_related_archival_materials.html) | [\<separatedmaterial>](https://www.loc.gov/ead/tglib/elements/separatedmaterial.html) | [MARC 544](https://www.loc.gov/marc/bibliographic/bd544.html) |
 | Related Archival Materials | [DACS 6.3](https://saa-ts-dacs.github.io/dacs/06_part_I/07_chapter_06/03_related_archival_materials.html) | [\<relatedmaterial>](https://www.loc.gov/ead/tglib/elements/relatedmaterial.html) | [MARC 544](https://www.loc.gov/marc/bibliographic/bd544.html) |
+| Publication Note (Bibliography) | [DACS 6.4](https://saa-ts-dacs.github.io/dacs/06_part_I/07_chapter_06/04_publication_note.html) | [\<bibliography>](https://www.loc.gov/ead/tglib/elements/bibliography.html) | [MARC 581](https://www.loc.gov/marc/bibliographic/bd581.html) |
 
 ### Arrangement
 The _arrangement note_ should be used to describe the current organization of the collection, and should not include any statements regarding prior rearrangement by the archivist or creator. Any significant arrangement change that warrants documentation should be described in the _processing note._  
@@ -154,6 +155,9 @@ See the \[division] for \[general term for relevant material, e.g. _artworks_, _
 
 ### Related Archival Materials
 Use this note to indicate the names and locations of collections that share a provenance or have a close association with the collection being described in the finding aid. For further information see [DACS 6.3](https://saa-ts-dacs.github.io/dacs/06_part_I/07_chapter_06/03_related_archival_materials.html).
+
+### Publication Note (Biblography)
+Used to identify publications that cite or are about the the collection. This note is called _bibliography_ in ASpace, and is used infrequently. For further information see [DACS 6.4](https://saa-ts-dacs.github.io/dacs/06_part_I/07_chapter_06/04_publication_note.html).
 
 ---
 
