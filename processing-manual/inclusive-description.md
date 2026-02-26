@@ -72,7 +72,7 @@ Be cognizant in avoiding the passive voice in your archival description. A verb 
 ## Colleges and Universities
 Write out the full name of a college or university the first time it is used, in title case. Subsequent uses may be shortened. If you use the words "college" or "university" on their own, they should be lowercased.
 
-- She taught at Wake Forest University; California State University, Sacremento; and the University of Exeter. While at Wake Forest, she served as chair of the English department. She left the university in 2003. 
+- She taught at Wake Forest University; California State University, Sacramento; and the University of Exeter. While at Wake Forest, she served as chair of the English department. She left the university in 2003. 
 
 ## Content Warnings
 Use scope and content notes if you wish to indicate the presence of harmful and offensive material in a collection. See the [Content Warnings documentation 🔒](https://github.com/NYPL/archival-processing-admin/blob/main/description/content-warnings.md) for examples.
