@@ -47,7 +47,7 @@ In Archival Processing, description of AMI in archival collections is performed 
 
 If you encounter AMI that is not inventoried, or electronic records mistakenly inventoried as AMI, contact Collection Management. They will make arrangements to review the media and create or correct the records in SPEC.
 
-The inventory the you export and description you create in a spreadsheet will be imported into ArchivesSpace. See the section on [Importing an Audio and Moving Image Inventory](../processing_ami.md#importing-an-ami-inventory-into-archivesspace) into ArchivesSpace for instructions on how to do this.
+The inventory the you export and description you create in a spreadsheet will be imported into ArchivesSpace. See the section on [Importing an Audio and Moving Image Inventory](processing-manual/processing-ami.md#importing-an-ami-inventory-into-archivesspace) into ArchivesSpace for instructions on how to do this.
 
 ## Moving a SPEC AMI Inventory to the SPEC Collection Record
 Before you begin processing any AMI, your first step is to move the inventory into the acquisition’s associated collection record. To do this follow the steps below:
