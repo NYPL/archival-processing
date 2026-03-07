@@ -87,7 +87,7 @@ Sc Photo [Name of creator(s) or collector(s), with added topic term if present] 
 
 Record the extent received when the collection was accessioned. Include the extent of the physical materials, electronic records, and audio and moving image items. Extent information is recorded in SPEC in the acquisition record, and is listed under the _Extent Summary_ section. Collection extents are also added to SPEC project records and each collection’s trello card.
 
-![SPEC Extent Summary](Images\03-SPEC_Extent_Summary.png)
+![SPEC Extent Summary](../processing-manual/images/03-SPEC_Extent_Summary.png)
 
 The extent of the physical materials should be expressed in linear feet, with the number of containers broken down into the boxes, tubes, oversized, folders, and volumes. If the collection contains other unique materials like framed items or artifacts, include that here as well. A physical extent should look like this: 91 linear feet (212 boxes, 27 tubes, 4 oversized folders).
 
