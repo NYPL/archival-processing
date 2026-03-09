@@ -69,7 +69,7 @@ For complex subjects, make sure there is only one term in each field. Remember t
 
 Also be sure that locations are labeled as _geographic_ in the _type_ field.
 
-![Geographic subdivision](/..images/133-geographic-subdivision.png)
+![Geographic subdivision](../images/133-geographic-subdivision.png)
 
 Make sure authorized terms are not marked as _local_, and that the _source_ and _authority ID_ are included. 
 
@@ -81,7 +81,7 @@ Make sure authorized terms are not marked as _local_, and that the _source_ and 
 
 Go to the export menu and select _Download MARCXML_ as illustrated below.
 
-![export XML](..images/135-export-xml.png)
+![export XML](../images/135-export-xml.png)
 
 # Converting XML to MRC in MarcEdit
 Since ASpace generates the catalog information as MARCXML, you need to use MarcEdit to convert this data into a MARC format that can be imported into OCLC Connexion. 
@@ -282,19 +282,17 @@ If you need to edit the _location (79)_ of multiple items, select _edit > find_
 
 Then use the find and replace function to make the changes. 
 
-A list of [location codes 🔒](https://docs.google.com/document/d/17iNW_ekPo6TrNT0ir4LLsDZJLAmV3d5-cF0p3gsi8WA/edit) is also available on the BookOps Lair page.
-
 ## Item Agency Codes
 If you change the location, you will also need to change the _item agency (127)_ using the same process.
-A list of item agency codes is available in the internal [Cataloging Archival Collections 🔒](https://docs.google.com/document/d/1XMCuaNAQwFyRw-UMd86Me8R0YMDczk_S14sjhEEJ2AY/edit?usp=sharing) documentation.
+A list of [item agency codes 🔒](https://github.com/NYPL/archival-processing-admin/blob/main/cataloging/resource-guide.md#item-agency-codes) is available in the internal Cataloging Archival Collections documentation.
 
 ## Locating the bnumber
 When the catalog record is complete, locate the bnumber. The bnumber is the letter “b” followed by eight numbers at the top of the record. When recording the bnumber, omit the last digit. This number must be added to both the collection’s ASpace record in the _bnumber_ _indentifer_ field and the bnumber field of the SPEC collection record. 
 
-When you have finished cataloging the collection, mark the cataloging task in the collection’s Trello card as complete. See the [Updating Trello]() section of this documention for more information on managing projects in Trello.
+When you have finished cataloging the collection, mark the cataloging task in the collection’s Trello card as complete. 
 
 # Aeon Links
-If you are cataloging an LPA collection for the Dance, Music, or Theatre division, you will need to add Aeon links to each of the item records. Instructions on how to do this are included in the [internal cataloging documentation 🔒](https://docs.google.com/document/d/1XMCuaNAQwFyRw-UMd86Me8R0YMDczk_S14sjhEEJ2AY/edit?tab=t.0#heading=h.jxtka2qdhn18)
+If you are cataloging an LPA collection for the Dance, Music, or Theatre division, you will need to add [Aeon links 🔒](https://github.com/NYPL/archival-processing-admin/blob/main/cataloging/resource-guide.md#adding-aeon-links) to each of the item records. Instructions on how to do this are included in the internal cataloging documentation.
 
 # Corrections and Edits to Existing Catalog Records
 If you are cataloging an addition to a previously processed collection, or if you are editing an existing catalog record or finding aid, follow the steps below. You will not need to export the MARCXML from ASpace, import the MARC record into OCLC, or export the record from OCLC to Sierra. 
@@ -362,26 +360,26 @@ To add a single item record to a Sierra catalog record complete the following st
 
 4\. Make sure the _single item_ radio button is selected and follow the prompts.
 
-- **Location**: Use the [code 🔒](https://docs.google.com/document/d/1XMCuaNAQwFyRw-UMd86Me8R0YMDczk_S14sjhEEJ2AY/edit?tab=t.0#heading=h.zgrvqj3x9y2v) according to the collection’s division.
+- **Location**: Use the [code 🔒](https://github.com/NYPL/archival-processing-admin/blob/main/cataloging/resource-guide.md#location-codes) according to the collection’s division.
 
-- **Item Agency**: Choose the item agency [code 🔒](https://docs.google.com/document/d/1XMCuaNAQwFyRw-UMd86Me8R0YMDczk_S14sjhEEJ2AY/edit?tab=t.0#heading=h.mvaigk386hqz) based on the division and it's storage location.
+- **Item Agency**: Choose the item agency [code 🔒](https://github.com/NYPL/archival-processing-admin/blob/main/cataloging/resource-guide.md#item-agency-codes) based on the division and it's storage location.
 
 - **Item Type**: This will almost always be _archival materials_.
 
-- **OPAC Message**: Use the [correct message 🔒](https://docs.google.com/document/d/1XMCuaNAQwFyRw-UMd86Me8R0YMDczk_S14sjhEEJ2AY/edit?tab=t.0#heading=h.v34n8gwdu3d4) based on each division's local conventions. 
+- **OPAC Message**: Use the [correct message 🔒](https://github.com/NYPL/archival-processing-admin/blob/main/cataloging/resource-guide.md#opac-and-item-messages) based on each division's local conventions. 
 
-- **Item Message**: Use the [correct message 🔒](https://docs.google.com/document/d/1XMCuaNAQwFyRw-UMd86Me8R0YMDczk_S14sjhEEJ2AY/edit?tab=t.0#heading=h.v34n8gwdu3d4) based on each division's local conventions. 
+- **Item Message**: Use the [correct message 🔒](https://github.com/NYPL/archival-processing-admin/blob/main/cataloging/resource-guide.md#opac-and-item-messages) based on each division's local conventions. 
 
 - **Call Number**: Use the collection's Call Number.
 
 - **Barcode**: Enter the new item's barcode.
 
-- **Unit/Initials**: Enter your initials and your division as explained in the [internal documentation 🔒](https://docs.google.com/document/d/1XMCuaNAQwFyRw-UMd86Me8R0YMDczk_S14sjhEEJ2AY/edit?tab=t.0#heading=h.4x0ulc59m4nd).
+- **Unit/Initials**: Enter your initials and your division as explained in the [internal documentation 🔒](https://github.com/NYPL/archival-processing-admin/blob/main/cataloging/resource-guide.md#901-and-949-fields-in-marc-edit-and-sierra).
 
 5\. The new item will not be created until you save the record. Once you save the record, the updates will appear in the OPAC.
 
 ### Adding Multiple Item Records to A Sierra Catalog Record
-To add a multiple item records to a Sierra catalog record complete the steps below. The first time you do this, you will need to [configure 🔒](https://docs.google.com/document/d/1XMCuaNAQwFyRw-UMd86Me8R0YMDczk_S14sjhEEJ2AY/edit?tab=t.0#heading=h.ssa59pf6klqh) your settings in Sierra.
+To add a multiple item records to a Sierra catalog record complete the steps below. The first time you do this, you will need to [configure 🔒](https://github.com/NYPL/archival-processing-admin/blob/main/cataloging/resource-guide.md#configuring-sierra-setting-for-bulk-updates) your settings in Sierra.
 
 1\. In the summary screen, select _Attach new item_. 
 
@@ -403,7 +401,7 @@ To add a multiple item records to a Sierra catalog record complete the steps bel
 
 8\. Leave the box next to _Increment copy number_ checked.
 
-9\. For the _location_, enter the correct division [location code 🔒](https://docs.google.com/document/d/1XMCuaNAQwFyRw-UMd86Me8R0YMDczk_S14sjhEEJ2AY/edit?tab=t.0#heading=h.zgrvqj3x9y2v).
+9\. For the _location_, enter the correct division [location code 🔒](https://github.com/NYPL/archival-processing-admin/blob/main/cataloging/resource-guide.md#location-codes).
 
 10\.  For # of Copies, enter 1.
 
