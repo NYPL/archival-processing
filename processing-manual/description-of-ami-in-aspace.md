@@ -21,7 +21,7 @@ Make a component title in the appropriate place(s) in the finding aid for all of
 
 Descriptions of amounts and types of media should be as accurate and specific as possible. When describing audio and moving image content, be sure to discuss the content, not the just the format. For instance, say “the series includes fifteen interviews with people, such as John and Jane Doe, conducted as research for his book” as opposed to “this series includes audio cassettes of interviews.” 
 
-**Each component should contain only one recording. Even if a recording is split accross mulitple carriers, each AMI object should contain only ONE component.**
+**Each component should contain only ONErecording. Even if a recording is split accross mulitple carriers.**
 
 **Finding aids should describe each AMI recording, not the digitized files.**
 
