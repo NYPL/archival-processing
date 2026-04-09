@@ -66,7 +66,7 @@ LHG forms their call numbers with the following covention: AZ YEAR-accession num
 AZ 2025-01
 
 ### Dance Division (DAN)
-Call numbers for Dance collections are created by Archival Processing management after a collection has been accessioned.
+Call numbers for Dance collections are created by Archival Processing management after a collection has been accessioned. Call numbers begin either *MGZMD (for papers) or *MGZEB (for photograph collections). Legacy dance call numbers may have an (S) at the beginning but as of 2026 the (S) is no longer used and will be removed from the collections' catalog records and finding aids.
 
 ### Music Division (MUS)
 Call numbers are assigned by the Music division Assistant Curator and technical services staff. Your supervisor will reach out the the division for the call number. 
