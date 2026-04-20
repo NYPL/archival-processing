@@ -41,7 +41,7 @@ Before performing the import, you must make sure all the data in your spreadshee
 
 3\. When the spreadsheet looks correct, navigate to _File_> _Download_ > _Microsoft Excel (.xslx)_
 
-4.\. NEW STEP: After downloading, open a new, blank Excel sheet. Select all contents of your downloaded sheet (ctrl+A) then copy and paste as plain text into the new sheet (ctrl+C, ctrl+shift+V in Windows / option+shift+command+V on a Mac). This will be the file you import.
+4\. NEW STEP: After downloading, open a new, blank Excel sheet. Select all contents of your downloaded sheet (ctrl+A) then copy and paste as plain text into the new sheet (ctrl+C, ctrl+shift+V in Windows / option+shift+command+V on a Mac). This will be the file you import.
 
 ## Importing a Processing Spreadsheet into ASpace
 1\. Open ASpace and navigate to the correct repository. 
