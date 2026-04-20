@@ -33,13 +33,15 @@ Make sure to leave only one space between the colon and the code/number as illus
 
 ![spreadsheet](../aspace/Images/45-spreadsheet.png)
 
-Before performing the import, you must make sure all the data in your spreadsheet has been converted to plain text. It is recommended that you work in Google Sheets to perform this task. 
+Before performing the import, you must make sure all the data in your spreadsheet has been converted to plain text. It is recommended that you work in Google Sheets to perform this task. NOTE: Due to some change with Google Sheets and/or Microsoft Excel, you will now need to perform an additional step of copying and pasting your data as plain text into a new Excel sheet (see step 4 below). 
 
 1\. In Google Sheets Navigate to _Format > Number > Plain Text.
 
 2\. Review the spreadsheet to make sure the data looks correct, and look out for issues such as missing blocks of data or alignment issues. 
 
 3\. When the spreadsheet looks correct, navigate to _File_> _Download_ > _Microsoft Excel (.xslx)_
+
+4.\. NEW STEP: After downloading, open a new, blank Excel sheet. Select all contents of your downloaded sheet (ctrl+A) then copy and paste as plain text into the new sheet (ctrl+C, ctrl+shift+V in Windows / option+shift+command+V on a Mac). This will be the file you import.
 
 ## Importing a Processing Spreadsheet into ASpace
 1\. Open ASpace and navigate to the correct repository. 
@@ -52,7 +54,7 @@ Before performing the import, you must make sure all the data in your spreadshee
 
 ![import menu](..\aspace/Images/47-import-menu.png)
 
-4\. Click on the green _+ Add file_ button, and select the XSLX file you downloaded, or drag the file into the _+Drag and drop files here_ section of the screen.
+4\. Click on the green _+ Add file_ button, and select the XSLX file you created by pasting plain text, or drag the file into the _+Drag and drop files here_ section of the screen.
 
 ![add file](..\aspace/Images/48-add-file.png)
 
